@@ -1,0 +1,65 @@
+{% extends "club/base.html" %}
+
+{% block content %}
+    <h1>{{ object.name }} - {{ object.group }}</h1>
+    <h4><span class="badge text-bg-secondary">{{ object.total_m }}m</span></h4>
+
+    <div class="container px-0 pt-3">
+        <table class="table table-hover">
+            <thead class="table-light">
+            <tr>
+                <th scope="col">Distanz</th>
+                <th scope="col">Wiederholungen</th>
+                <th scope="col">Teilstrecke</th>
+                <th scope="col">Aufgabe</th>
+                <th scope="col">Intensität</th>
+                <th scope="col">Hilfsmittel</th>
+                <th scope="col">Kommentar</th>
+            </tr>
+            </thead>
+            <tbody>
+
+            {% for task in tasks %}
+                <tr>
+                    <th scope="row"> {{ task.total_distance }}</th>
+                    <td>{{ task.number_parts }}</td>
+                    <td>{{ task.part_distance }}</td>
+                    <td><textarea class="form-control bg-white" rows="3" disabled>{{ task.part_task }}</textarea></td>
+                    <td>{{ task.intensiity }}</td>
+                    {% if task.tools != None %}
+                        <td>{{ task.tools }}</td>
+                    {% else %}
+                        <td></td>
+                    {% endif %}
+                    {% if task.comment != None %}
+                        <td>{{ task.comment }}</td>
+                    {% else %}
+                        <td></td>
+                    {% endif %}
+                </tr>
+            {% endfor %}
+
+            </tbody>
+        </table>
+
+
+        <div class="d-flex flex-row-reverse">
+            {% if perms.club.change_trainingplan %}
+                <div class="p-2">
+                    <button type="button" class="btn btn-outline-primary"
+                            onclick="location.href='{% url 'trainingplan-update' object.id %}'">
+                        Bearbeiten
+                    </button>
+                </div>
+            {% endif %}
+            {% if perms.club.delete_trainingplan %}
+                <div class="p-2">
+                    <button type="button" class="btn btn-outline-danger"
+                            onclick="location.href='{% url 'trainingplan-delete' object.id %}'">
+                        Löschen
+                    </button>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+{% endblock content %}

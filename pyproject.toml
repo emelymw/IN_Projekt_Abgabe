@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "plansch"
+version = "0.1.0"
+description = ""
+authors = ["Emely Mayer-Walcher <esmaywa@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+django = "^4.2.4"
+django-multi-form-view = "^2.0.1"
+django-crispy-forms = "^2.0"
+crispy-bootstrap5 = "^0.7"
+pylint = "^2.17.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

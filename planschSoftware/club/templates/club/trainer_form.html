@@ -1,0 +1,62 @@
+{% extends "club/base.html" %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+    <h2>Trainer Accountdaten</h2>
+    <hr>
+    <form method="POST">
+        {% csrf_token %}
+        {{ forms.user_form.username|as_crispy_field }}
+        {% if forms.user_form.password1 and  forms.user_form.password2 %}
+            <div class="row">
+                <div class="col col-md-6 mb-0">
+                    {{ forms.user_form.password1|as_crispy_field }}
+                </div>
+                <div class="col col-md-6 mb-0">
+                    {{ forms.user_form.password2|as_crispy_field }}
+                </div>
+            </div>
+        {% endif %}
+        <h2>Trainer</h2>
+        <hr>
+        <div class="row">
+            <div class="col col-md-6 mb-0">
+                {{ forms.user_form.first_name|as_crispy_field }}
+            </div>
+            <div class="col col-md-6 mb-0">
+                {{ forms.user_form.last_name|as_crispy_field }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col col-md-6 mb-0">
+                {{ forms.trainer_form.birth_date|as_crispy_field }}
+            </div>
+            <div class="col col-md-6 mb-0">
+                {{ forms.trainer_form.education|as_crispy_field }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col col-md-6 mb-0">
+                {{ forms.trainer_form.expiry_date_first_aid|as_crispy_field }}
+            </div>
+            <div class="col col-md-6 mb-0">
+                {{ forms.trainer_form.expiry_date_lifeguard|as_crispy_field }}
+            </div>
+        </div>
+
+        <div class="d-flex flex-row-reverse">
+            <div class="p-2">
+                <button type="submit" class="btn btn-primary">Bestätigen</button>
+            </div>
+            <div class="p-2">
+                <button type="button" class="btn btn-outline-primary"
+                        onclick="location.href='javascript:window.history.back()'">Abbrechen
+                </button>
+            </div>
+        </div>
+    </form>
+
+
+
+{% endblock content %}
+

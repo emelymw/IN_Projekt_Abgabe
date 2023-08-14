@@ -1,0 +1,56 @@
+{% extends "club/base.html" %}
+{% load club_tags %}
+
+{% block content %}
+    <h2>Trainingspläne</h2>
+    <hr>
+
+    <table class="table table-hover">
+        <thead class="table-light">
+        <tr>
+            <th scope="col"> Name</th>
+            <th scope="col"> Gesamtdistanz</th>
+            <th scope="col"> Kategorie</th>
+            <th scope="col"> Schwimmgruppe</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        {% for trainingplan in page_obj %}
+            <tr style="cursor: pointer"
+                onclick="javascript:location.href='{% url 'trainingplan-detail' trainingplan.id %}'">
+                <th scope="row"> {{ trainingplan.name }}</th>
+                <td>{{ trainingplan.total_m }} m</td>
+                <td>{{ trainingplan.category }}</td>
+                <td>{{ trainingplan.group }}</td>
+            </tr>
+        {% endfor %}
+
+        </tbody>
+    </table>
+    <div class="pagination">
+    <span class="step-links">
+        {% if page_obj.has_previous %}
+            <a class="btn btn-info" href="?page=1">&laquo; Erste</a>
+            <a class="btn btn-info" href="?page={{ page_obj.previous_page_number }}">Vorherige</a>
+        {% endif %}
+
+        <span class="current">
+            Seite {{ page_obj.number }} von {{ page_obj.paginator.num_pages }}.
+        </span>
+
+        {% if page_obj.has_next %}
+            <a class="btn btn-info" href="?page={{ page_obj.next_page_number }}">Nächste</a>
+            <a class="btn btn-info" href="?page={{ page_obj.paginator.num_pages }}">Letzte &raquo;</a>
+        {% endif %}
+    </span>
+    </div>
+    <div class="d-flex flex-row-reverse">
+        {% if perms.club.add_trainingplan %}
+            <button type="button" class="btn btn-outline-primary"
+                    onclick="location.href='{% url 'trainingplan-create' %}'">
+                Trainingsplan hinzufügen
+            </button>
+        {% endif %}
+    </div>
+{% endblock content %}

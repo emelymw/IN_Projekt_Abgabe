@@ -1,0 +1,129 @@
+{% extends "club/base.html" %}
+{% load club_tags %}
+
+{% block content %}
+    <h1 class="h1">{{ object.name }}</h1>
+    <h4><span class="badge text-bg-secondary">{{ object.short_name }}</span></h4>
+
+    <div class="container px-0 pt-3">
+        <div class="row">
+            <div class="col-4">
+                <p> Beschreibung: </p>
+            </div>
+            <div class="col-8">
+                <p> {{ object.description }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-4">
+                <p> Altersgruppe: </p>
+            </div>
+            <div class="col-8">
+                <p> {{ object.age_group }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-4">
+                <p> Wettkampfteilnahme: </p>
+            </div>
+            <div class="col-8">
+                {% if object.competition_participation %}
+                    <p> Ja </p>
+                {% else %}
+                    <p> Nein </p>
+                {% endif %}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-4">
+                <p> Haupttrainer: </p>
+            </div>
+            <div class="col-8">
+                <p> {{ object.main_trainer }} </p>
+            </div>
+        </div>
+        {% if object.trainer.exists %}
+            <div class="row">
+                <div class="col-4">
+                    <p> Weitere Trainer: </p>
+                </div>
+                <div class="col-8">
+                    <table class="table table-hover">
+                        <thead class="table-light">
+                        <tr>
+                            <th scope="col"> Vorname</th>
+                            <th scope="col"> Nachname</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {% for trainer in object.trainer.all %}
+                            <tr type="button"
+                                onclick="javascript:location.href='{% url 'trainer-detail' trainer.user.username %}'">
+                                <th scope="row"> {{ trainer.user.first_name }}</th>
+                                <td>{{ trainer.user.last_name }}</td>
+                            </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        {% endif %}
+        <div class="row">
+            <div class="col-4">
+                <p> Trainingstage: </p>
+            </div>
+            <div class="col-8">
+                <ul class="list-group">
+                    {% for training_day in trainings_days %}
+                        <li class="list-group-item">{{ training_day.date|own_date:"l" }}, {{ training_day.start_time|date:"H:i" }}
+                            - {{ training_day.end_time|date:"H:i" }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-4">
+                <p> Schwimmer: </p>
+            </div>
+            <div class="col-8 table-responsive" style="overflow-y: auto; max-height: 350px">
+                <table class="table table-hover">
+                    <thead class="table-light">
+                    <tr>
+                        <th scope="col"> Vorname</th>
+                        <th scope="col"> Nachname</th>
+                        <th scope="col"> Geburtsdatum</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for swimmer in swimmer_data %}
+                        <tr style="cursor: pointer"
+                            onclick="javascript:location.href='{% url 'swimmer-detail' swimmer.dsv_id %}'">
+                            <th scope="row"> {{ swimmer.first_name }}</th>
+                            <td>{{ swimmer.last_name }}</td>
+                            <td>{{ swimmer.birth_date }}</td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="d-flex flex-row-reverse">
+            {% if perms.club.change_swimmgroup %}
+                <div class="p-2">
+                    <button type="button" class="btn btn-outline-primary"
+                            onclick="location.href='{% url 'swimmgroup-update' object.id %}'">
+                        Bearbeiten
+                    </button>
+                </div>
+            {% endif %}
+            {% if perms.club.delete_swimmgroup %}
+                <div class="p-2">
+                    <button type="button" class="btn btn-outline-danger"
+                            onclick="location.href='{% url 'swimmgroup-delete' object.id %}'">
+                        Löschen
+                    </button>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+{% endblock content %}

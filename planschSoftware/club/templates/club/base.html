@@ -1,0 +1,71 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
+
+    <title>Plansch</title>
+
+    {% block header %}{% endblock %}
+</head>
+<body>
+<!-- Popper.js and Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.min.js"
+        integrity="sha384-zYPOMqeu1DAVkHiLqWBUTcbYfZ8osu1Nd6Z89ify25QV9guujx43ITvfi12/QExE"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.min.js"
+        integrity="sha384-Y4oOpwW3duJdCWv5ly8SCFYWqFDsfob/3GkgExXKV4idmbt98QcxXYs9UoXAB7BZ"
+        crossorigin="anonymous"></script>
+
+
+<header class="d-flex justify-content-between py-3 mb-4 border-bottom">
+    <ul class="nav mb-2 justify-content-center mb-md-0 ps-5">
+        <li><a href="/" class="nav-link px-2 link-secondary">Plansch</a></li>
+        <li><a href="{% url 'club-detail' %}" class="nav-link px-2">Verein</a></li>
+        <li><a href="{% url 'swimmgroup-list' %}" class="nav-link px-2">Schwimmgruppen</a></li>
+        <li><a href="{% url 'swimmer-list' %}" class="nav-link px-2">Schwimmer</a></li>
+        <li><a href="{% url 'training-calendar' %}" class="nav-link px-2">Trainings</a></li>
+        <li><a href="{% url 'trainingplan-list' %}" class="nav-link px-2">Trainingspläne</a></li>
+    </ul>
+    <div class="me-5 mt-2">
+        <div class="flex-shrink-0 dropdown">
+            <a href="#" class="d-block link-body-emphasis text-decoration-none dropdown-toggle"
+               data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="bi bi-gear"></i>
+            </a>
+            <ul class="dropdown-menu text-small shadow">
+                <li><a class="dropdown-item" href="{% url 'user-changepassword' %}">Einstellungen</a></li>
+                <li><a class="dropdown-item" href="{% url 'user-logout' %}">Abmelden</a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+
+
+<main>
+    <div class="container p-3">
+        {% if messages %}
+            {% for message in messages %}
+                <div class="alert alert-{{ message.tags }}">
+                    {{ message }}
+                </div>
+            {% endfor %}
+        {% endif %}
+        {% block content %}{% endblock %}
+    </div>
+</main>
+
+</body>
+</html>

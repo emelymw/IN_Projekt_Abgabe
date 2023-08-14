@@ -1,0 +1,54 @@
+{% extends "club/base.html" %}
+{% load club_tags %}
+
+{% block content %}
+    <h2>Schwimmer</h2>
+    <hr>
+
+    <table class="table table-hover">
+        <thead class="table-light">
+        <tr>
+            <th scope="col"> Vorname</th>
+            <th scope="col"> Nachname</th>
+            <th scope="col"> Jahrgang</th>
+            <th scope="col"> Gruppe</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        {% for swimmer in page_obj %}
+            <tr style="cursor: pointer" onclick="javascript:location.href='{% url 'swimmer-detail' swimmer.dsv_id %}'">
+                <th scope="row"> {{ swimmer.first_name }}</th>
+                <td>{{ swimmer.last_name }}</td>
+                <td>{{ swimmer.birth_date|date:"Y" }}</td>
+                <td>{{ swimmer.group }}</td>
+            </tr>
+        {% endfor %}
+
+        </tbody>
+    </table>
+    <div class="pagination">
+    <span class="step-links">
+        {% if page_obj.has_previous %}
+            <a class="btn btn-outline-secondary" href="?page=1">&laquo; Erste</a>
+            <a class="btn btn-outline-secondary" href="?page={{ page_obj.previous_page_number }}">Vorherige</a>
+        {% endif %}
+
+        <span class="current">
+            Seite {{ page_obj.number }} von {{ page_obj.paginator.num_pages }}.
+        </span>
+
+        {% if page_obj.has_next %}
+            <a class="btn btn-outline-secondary" href="?page={{ page_obj.next_page_number }}">Nächste</a>
+            <a class="btn btn-outline-secondary" href="?page={{ page_obj.paginator.num_pages }}">Letzte &raquo;</a>
+        {% endif %}
+    </span>
+    </div>
+    <div class="d-flex flex-row-reverse">
+        {% if perms.club.add_swimmer %}
+            <button type="button" class="btn btn-outline-primary" onclick="location.href='{% url 'swimmer-create' %}'">
+                Schwimmer hinzufügen
+            </button>
+        {% endif %}
+    </div>
+{% endblock content %}

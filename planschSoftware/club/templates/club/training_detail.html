@@ -1,0 +1,93 @@
+{% extends "club/base.html" %}
+{% load club_tags %}
+
+{% block content %}
+    <h1>{{ object.start_time|own_date:"l, d.m.Y (H:i -" }} {{ object.end_time|date:"H:i)" }}</h1>
+    <h4><span class="badge text-bg-secondary">{{ object.group.short_name }}</span></h4>
+
+    <div class="container px-0 pt-3">
+        <div class="row">
+            <div class="col-2">
+                <p> Trainer:</p>
+            </div>
+            <div class="col-10">
+                {% if object.trainer != None %}
+                    <a href='{% url 'trainer-detail' object.trainer.user.username %}'>{{ object.trainer.user.first_name }} {{ object.trainer.user.last_name }}</a>
+                    <i type="button" class="bi bi-pencil-square"
+                       onclick="location.href='{% url 'training-trainer' object.id %}'"></i>
+                {% else %}
+                    <i type="button" class="bi bi-plus-circle"
+                       onclick="location.href='{% url 'training-trainer' object.id %}'"></i>
+                {% endif %}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-2">
+                <p> Trainingsplan: </p>
+            </div>
+            <div class="col-10">
+                {% if object.training_plan != None %}
+                    <a href='{% url 'trainingplan-detail' object.training_plan.id %}'>{{ object.training_plan.name }}</a>
+                    <i type="button" class="bi bi-pencil-square"
+                       onclick="location.href='{% url 'training-trainingplan' object.id %}'"></i>
+                {% else %}
+                    <i type="button" class="bi bi-plus-circle"
+                       onclick="location.href='{% url 'training-trainingplan' object.id %}'"></i>
+                {% endif %}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-2">
+                <p> Anwesenheiten: </p>
+            </div>
+            <div class="col-10">
+                {% if object.id|attendance_exits %}
+                    <ul class="list-group">
+                        {% for attendance in object.id|get_attendance %}
+                            {% if attendance.status == "ENTSCHULDIGT" %}
+                                <a href='{% url 'swimmer-detail' attendance.swimmer.dsv_id %}'
+                                   class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">{{ attendance.swimmer }}
+                                    <span class="badge rounded-pill bg-warning text-dark">e</span>
+                                </a>
+                            {% elif attendance.status == "ANWESEND" %}
+                                <a href='{% url 'swimmer-detail' attendance.swimmer.dsv_id %}'
+                                   class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">{{ attendance.swimmer }}
+                                    <span class="badge rounded-pill bg-success">a</span>
+                                </a>
+                            {% elif attendance.status == "UNENTSCHULDIGT" %}
+                                <a href='{% url 'swimmer-detail' attendance.swimmer.dsv_id %}'
+                                   class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">{{ attendance.swimmer }}
+                                    <span class="badge rounded-pill bg-danger">u</span>
+                                </a>
+                            {% elif attendance.status == "UNBEKANNT" %}
+                                <a href='{% url 'swimmer-detail' attendance.swimmer.dsv_id %}'
+                                   class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">{{ attendance.swimmer }}
+                                    <span class="badge rounded-pill bg-light text-dark">x</span>
+                                </a>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                    {% if perms.club.change_attendance %}
+                        <i type="button" class="bi bi-pencil-square"
+                           onclick="location.href='{% url 'training-attendance-update' object.id %}'"></i>
+                    {% endif %}
+                {% else %}
+                    {% if perms.club.add_attendance %}
+                        <i type="button" class="bi bi-plus-circle"
+                           onclick="location.href='{% url 'training-attendance-create' object.id %}'"></i>
+                    {% endif %}
+                {% endif %}
+            </div>
+        </div>
+        <div class="d-flex flex-row-reverse">
+            {% if perms.club.delete_training %}
+                <div class="p-2">
+                    <button type="button" class="btn btn-outline-danger"
+                            onclick="location.href='{% url 'training-delete' object.id %}'">
+                        Ausfall
+                    </button>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+{% endblock content %}

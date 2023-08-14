@@ -1,0 +1,4 @@
+django
+django-multi-form-view
+django-crispy-forms
+crispy-bootstrap5

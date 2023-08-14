@@ -1,0 +1,50 @@
+{% extends "club/base.html" %}
+{% load crispy_forms_tags %}
+{% load club_tags %}
+
+{% block content %}
+    <h2>Abteilungsleiter User</h2>
+    <hr>
+    <form method="POST">
+        {% csrf_token %}
+        {{ forms.user_form.username|as_crispy_field }}
+        {% if forms.user_form.password1 and  forms.user_form.password2%}
+        <div class="row">
+            <div class="col col-md-6 mb-0">
+                {{ forms.user_form.password1|as_crispy_field }}
+            </div>
+            <div class="col col-md-6 mb-0">
+                {{ forms.user_form.password2|as_crispy_field }}
+            </div>
+        </div>
+        {% endif %}
+        <h2>Abteilungsleiter</h2>
+        <hr>
+        <div class="row">
+            <div class="col col-md-6 mb-0">
+                {{ forms.user_form.first_name|as_crispy_field }}
+            </div>
+            <div class="col col-md-6 mb-0">
+                {{ forms.user_form.last_name|as_crispy_field }}
+            </div>
+        </div>
+        {{ forms.departmentManager_form.email|as_crispy_field }}
+
+
+        <div class="d-flex flex-row-reverse">
+            <div class="p-2">
+                <button type="submit" class="btn btn-primary">Bestätigen</button>
+            </div>
+            <div class="p-2">
+                <button type="button" class="btn btn-outline-primary" onclick="location.href='{% url 'club-detail' %}'">Abbrechen</button>
+            </div>
+            <div class="p-2">
+                <button type="button" class="btn btn-outline-danger" onclick="location.href='{% url 'departmentmanger-delete' forms.user_form|get_username %}'">
+                    Löschen
+                </button>
+            </div>
+        </div>
+    </form>
+
+{% endblock content %}
+

@@ -1,0 +1,98 @@
+{% extends "club/base.html" %}
+
+{% block content %}
+    <h1>{{ object.name }}</h1>
+    <h4><span class="badge text-bg-secondary">{{ object.short_name }}</span></h4>
+
+    <div class="container px-0 pt-3">
+        <div class="row">
+            <div class="col-2">
+                <p> Vereins-ID: </p>
+            </div>
+            <div class="col-10">
+                <p> {{ object.id }} </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-2">
+                <p> Adresse: </p>
+            </div>
+            <div class="col-10">
+                <p> {{ object.address }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-2">
+                <p> Abteilungsleiter: </p>
+            </div>
+            <div class="col-10">
+                <ul class="list-group list-group-flush">
+                    {% for departmentManager in departmentManager_data %}
+                        <a href='{% url 'departmentmanger-update' departmentManager.user.username %}'
+                           class="list-group-item list-group-item-action ps-0">{{ departmentManager }}</a>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-2">
+                <p> Trainer: </p>
+            </div>
+            <div class="col-10 table-responsive" style="overflow-y: auto; max-height: 350px">
+                <table class="table table-hover">
+                    <thead class="table-light">
+                    <tr>
+                        <th scope="col"> Vorname</th>
+                        <th scope="col"> Nachname</th>
+                        <th scope="col"> Geburtsdatum</th>
+                        <th scope="col"> Status</th>
+                        <th scope="col"> Erste Hilfe Ablaufdatum</th>
+                        <th scope="col"> Rettungsschwimmer Ablaufdatum</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+
+                    {% for trainer in trainer_data %}
+                        <tr onclick="javascript:location.href='{% url 'trainer-detail' trainer.user.username %}'"
+                            style="cursor: pointer">
+                            <th scope="row"> {{ trainer.user.first_name }}</th>
+                            <td>{{ trainer.user.last_name }}</td>
+                            <td>{{ trainer.birth_date|date:"d.m.Y" }}</td>
+                            <td>{{ trainer.education }}</td>
+                            <td>{{ trainer.expiry_date_first_aid|date:"d.m.Y" }}</td>
+                            <td>{{ trainer.expiry_date_lifeguard|date:"d.m.Y" }}</td>
+                        </tr>
+                    {% endfor %}
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="d-flex flex-row-reverse">
+            {% if perms.club.change_club %}
+                <div class="p-2">
+                    <button type="button" class="btn btn-outline-primary"
+                            onclick="location.href='{% url 'club-update' %}'">
+                        Bearbeiten
+                    </button>
+                </div>
+            {% endif %}
+            {% if perms.club.add_trainer %}
+                <div class="p-2">
+                    <button type="button" class="btn btn-outline-primary"
+                            onclick="location.href='{% url 'trainer-create' %}'">
+                        Trainer hinzufügen
+                    </button>
+                </div>
+            {% endif %}
+            {% if perms.club.add_departmentmanager %}
+                <div class="p-2">
+                    <button type="button" class="btn btn-outline-primary"
+                            onclick="location.href='{% url 'departmentmanger-create' %}'">
+                        Abteilungsleiter hinzufügen
+                    </button>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+{% endblock content %}

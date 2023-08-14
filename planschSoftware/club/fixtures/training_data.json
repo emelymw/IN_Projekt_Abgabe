@@ -1,0 +1,7490 @@
+[
+  {
+    "model": "club.training",
+    "pk": 1,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-01-05T18:30:00",
+      "end_time": "2023-01-05T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 2,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-01-12T18:30:00",
+      "end_time": "2023-01-12T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 3,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-01-19T18:30:00",
+      "end_time": "2023-01-19T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 4,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-01-26T18:30:00",
+      "end_time": "2023-01-26T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 5,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-02-02T18:30:00",
+      "end_time": "2023-02-02T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 6,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-02-09T18:30:00",
+      "end_time": "2023-02-09T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 7,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-02-16T18:30:00",
+      "end_time": "2023-02-16T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 8,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-02-23T18:30:00",
+      "end_time": "2023-02-23T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 9,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-03-02T18:30:00",
+      "end_time": "2023-03-02T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 10,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-03-09T18:30:00",
+      "end_time": "2023-03-09T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 11,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-03-16T18:30:00",
+      "end_time": "2023-03-16T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 12,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-03-23T18:30:00",
+      "end_time": "2023-03-23T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 13,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-03-30T18:30:00",
+      "end_time": "2023-03-30T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 14,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-04-06T18:30:00",
+      "end_time": "2023-04-06T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 15,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-04-13T18:30:00",
+      "end_time": "2023-04-13T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 16,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-04-20T18:30:00",
+      "end_time": "2023-04-20T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 17,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-04-27T18:30:00",
+      "end_time": "2023-04-27T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 18,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-05-04T18:30:00",
+      "end_time": "2023-05-04T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 19,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-05-11T18:30:00",
+      "end_time": "2023-05-11T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 20,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-05-18T18:30:00",
+      "end_time": "2023-05-18T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 21,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-05-25T18:30:00",
+      "end_time": "2023-05-25T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 22,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-06-01T18:30:00",
+      "end_time": "2023-06-01T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 23,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-06-08T18:30:00",
+      "end_time": "2023-06-08T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 24,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-06-15T18:30:00",
+      "end_time": "2023-06-15T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 25,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-06-22T18:30:00",
+      "end_time": "2023-06-22T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 26,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-06-29T18:30:00",
+      "end_time": "2023-06-29T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 27,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-07-06T18:30:00",
+      "end_time": "2023-07-06T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 28,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-07-13T18:30:00",
+      "end_time": "2023-07-13T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 29,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-07-20T18:30:00",
+      "end_time": "2023-07-20T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 30,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-07-27T18:30:00",
+      "end_time": "2023-07-27T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 31,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-08-03T18:30:00",
+      "end_time": "2023-08-03T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 32,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-08-10T18:30:00",
+      "end_time": "2023-08-10T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 33,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-08-17T18:30:00",
+      "end_time": "2023-08-17T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 34,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-08-24T18:30:00",
+      "end_time": "2023-08-24T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 35,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-08-31T18:30:00",
+      "end_time": "2023-08-31T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 36,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-09-07T18:30:00",
+      "end_time": "2023-09-07T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 37,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-09-14T18:30:00",
+      "end_time": "2023-09-14T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 38,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-09-21T18:30:00",
+      "end_time": "2023-09-21T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 39,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-09-28T18:30:00",
+      "end_time": "2023-09-28T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 40,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-10-05T18:30:00",
+      "end_time": "2023-10-05T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 41,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-10-12T18:30:00",
+      "end_time": "2023-10-12T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 42,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-10-19T18:30:00",
+      "end_time": "2023-10-19T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 43,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-10-26T18:30:00",
+      "end_time": "2023-10-26T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 44,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-11-02T18:30:00",
+      "end_time": "2023-11-02T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 45,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-11-09T18:30:00",
+      "end_time": "2023-11-09T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 46,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-11-16T18:30:00",
+      "end_time": "2023-11-16T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 47,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-11-23T18:30:00",
+      "end_time": "2023-11-23T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 48,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-11-30T18:30:00",
+      "end_time": "2023-11-30T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 49,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-12-07T18:30:00",
+      "end_time": "2023-12-07T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 50,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-12-14T18:30:00",
+      "end_time": "2023-12-14T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 51,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-12-21T18:30:00",
+      "end_time": "2023-12-21T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 52,
+    "fields": {
+      "group": 1,
+      "start_time": "2023-12-28T18:30:00",
+      "end_time": "2023-12-28T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 53,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-02T17:30:00",
+      "end_time": "2023-01-02T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 54,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-09T17:30:00",
+      "end_time": "2023-01-09T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 55,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-16T17:30:00",
+      "end_time": "2023-01-16T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 56,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-23T17:30:00",
+      "end_time": "2023-01-23T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 57,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-30T17:30:00",
+      "end_time": "2023-01-30T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 58,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-06T17:30:00",
+      "end_time": "2023-02-06T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 59,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-13T17:30:00",
+      "end_time": "2023-02-13T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 60,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-20T17:30:00",
+      "end_time": "2023-02-20T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 61,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-27T17:30:00",
+      "end_time": "2023-02-27T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 62,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-06T17:30:00",
+      "end_time": "2023-03-06T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 63,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-13T17:30:00",
+      "end_time": "2023-03-13T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 64,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-20T17:30:00",
+      "end_time": "2023-03-20T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 65,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-27T17:30:00",
+      "end_time": "2023-03-27T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 66,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-03T17:30:00",
+      "end_time": "2023-04-03T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 67,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-10T17:30:00",
+      "end_time": "2023-04-10T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 68,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-17T17:30:00",
+      "end_time": "2023-04-17T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 69,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-24T17:30:00",
+      "end_time": "2023-04-24T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 70,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-01T17:30:00",
+      "end_time": "2023-05-01T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 71,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-08T17:30:00",
+      "end_time": "2023-05-08T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 72,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-15T17:30:00",
+      "end_time": "2023-05-15T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 73,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-22T17:30:00",
+      "end_time": "2023-05-22T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 74,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-29T17:30:00",
+      "end_time": "2023-05-29T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 75,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-05T17:30:00",
+      "end_time": "2023-06-05T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 76,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-12T17:30:00",
+      "end_time": "2023-06-12T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 77,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-19T17:30:00",
+      "end_time": "2023-06-19T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 78,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-26T17:30:00",
+      "end_time": "2023-06-26T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 79,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-03T17:30:00",
+      "end_time": "2023-07-03T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 80,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-10T17:30:00",
+      "end_time": "2023-07-10T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 81,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-17T17:30:00",
+      "end_time": "2023-07-17T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 82,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-24T17:30:00",
+      "end_time": "2023-07-24T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 83,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-31T17:30:00",
+      "end_time": "2023-07-31T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 84,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-07T17:30:00",
+      "end_time": "2023-08-07T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 85,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-14T17:30:00",
+      "end_time": "2023-08-14T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 86,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-21T17:30:00",
+      "end_time": "2023-08-21T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 87,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-28T17:30:00",
+      "end_time": "2023-08-28T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 88,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-04T17:30:00",
+      "end_time": "2023-09-04T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 89,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-11T17:30:00",
+      "end_time": "2023-09-11T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 90,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-18T17:30:00",
+      "end_time": "2023-09-18T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 91,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-25T17:30:00",
+      "end_time": "2023-09-25T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 92,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-02T17:30:00",
+      "end_time": "2023-10-02T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 93,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-09T17:30:00",
+      "end_time": "2023-10-09T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 94,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-16T17:30:00",
+      "end_time": "2023-10-16T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 95,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-23T17:30:00",
+      "end_time": "2023-10-23T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 96,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-30T17:30:00",
+      "end_time": "2023-10-30T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 97,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-06T17:30:00",
+      "end_time": "2023-11-06T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 98,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-13T17:30:00",
+      "end_time": "2023-11-13T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 99,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-20T17:30:00",
+      "end_time": "2023-11-20T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 100,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-27T17:30:00",
+      "end_time": "2023-11-27T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 101,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-04T17:30:00",
+      "end_time": "2023-12-04T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 102,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-11T17:30:00",
+      "end_time": "2023-12-11T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 103,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-18T17:30:00",
+      "end_time": "2023-12-18T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 104,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-25T17:30:00",
+      "end_time": "2023-12-25T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 105,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-02T19:30:00",
+      "end_time": "2023-01-02T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 106,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-09T19:30:00",
+      "end_time": "2023-01-09T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 107,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-16T19:30:00",
+      "end_time": "2023-01-16T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 108,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-23T19:30:00",
+      "end_time": "2023-01-23T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 109,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-30T19:30:00",
+      "end_time": "2023-01-30T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 110,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-06T19:30:00",
+      "end_time": "2023-02-06T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 111,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-13T19:30:00",
+      "end_time": "2023-02-13T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 112,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-20T19:30:00",
+      "end_time": "2023-02-20T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 113,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-27T19:30:00",
+      "end_time": "2023-02-27T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 114,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-06T19:30:00",
+      "end_time": "2023-03-06T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 115,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-13T19:30:00",
+      "end_time": "2023-03-13T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 116,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-20T19:30:00",
+      "end_time": "2023-03-20T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 117,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-27T19:30:00",
+      "end_time": "2023-03-27T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 118,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-03T19:30:00",
+      "end_time": "2023-04-03T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 119,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-10T19:30:00",
+      "end_time": "2023-04-10T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 120,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-17T19:30:00",
+      "end_time": "2023-04-17T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 121,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-24T19:30:00",
+      "end_time": "2023-04-24T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 122,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-01T19:30:00",
+      "end_time": "2023-05-01T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 123,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-08T19:30:00",
+      "end_time": "2023-05-08T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 124,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-15T19:30:00",
+      "end_time": "2023-05-15T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 125,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-22T19:30:00",
+      "end_time": "2023-05-22T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 126,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-29T19:30:00",
+      "end_time": "2023-05-29T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 127,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-05T19:30:00",
+      "end_time": "2023-06-05T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 128,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-12T19:30:00",
+      "end_time": "2023-06-12T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 129,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-19T19:30:00",
+      "end_time": "2023-06-19T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 130,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-26T19:30:00",
+      "end_time": "2023-06-26T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 131,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-03T19:30:00",
+      "end_time": "2023-07-03T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 132,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-10T19:30:00",
+      "end_time": "2023-07-10T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 133,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-17T19:30:00",
+      "end_time": "2023-07-17T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 134,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-24T19:30:00",
+      "end_time": "2023-07-24T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 135,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-31T19:30:00",
+      "end_time": "2023-07-31T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 136,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-07T19:30:00",
+      "end_time": "2023-08-07T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 137,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-14T19:30:00",
+      "end_time": "2023-08-14T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 138,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-21T19:30:00",
+      "end_time": "2023-08-21T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 139,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-28T19:30:00",
+      "end_time": "2023-08-28T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 140,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-04T19:30:00",
+      "end_time": "2023-09-04T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 141,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-11T19:30:00",
+      "end_time": "2023-09-11T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 142,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-18T19:30:00",
+      "end_time": "2023-09-18T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 143,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-25T19:30:00",
+      "end_time": "2023-09-25T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 144,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-02T19:30:00",
+      "end_time": "2023-10-02T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 145,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-09T19:30:00",
+      "end_time": "2023-10-09T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 146,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-16T19:30:00",
+      "end_time": "2023-10-16T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 147,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-23T19:30:00",
+      "end_time": "2023-10-23T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 148,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-30T19:30:00",
+      "end_time": "2023-10-30T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 149,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-06T19:30:00",
+      "end_time": "2023-11-06T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 150,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-13T19:30:00",
+      "end_time": "2023-11-13T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 151,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-20T19:30:00",
+      "end_time": "2023-11-20T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 152,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-27T19:30:00",
+      "end_time": "2023-11-27T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 153,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-04T19:30:00",
+      "end_time": "2023-12-04T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 154,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-11T19:30:00",
+      "end_time": "2023-12-11T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 155,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-18T19:30:00",
+      "end_time": "2023-12-18T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 156,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-25T19:30:00",
+      "end_time": "2023-12-25T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 157,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-03T19:30:00",
+      "end_time": "2023-01-03T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 158,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-10T19:30:00",
+      "end_time": "2023-01-10T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 159,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-17T19:30:00",
+      "end_time": "2023-01-17T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 160,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-24T19:30:00",
+      "end_time": "2023-01-24T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 161,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-31T19:30:00",
+      "end_time": "2023-01-31T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 162,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-07T19:30:00",
+      "end_time": "2023-02-07T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 163,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-14T19:30:00",
+      "end_time": "2023-02-14T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 164,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-21T19:30:00",
+      "end_time": "2023-02-21T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 165,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-28T19:30:00",
+      "end_time": "2023-02-28T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 166,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-07T19:30:00",
+      "end_time": "2023-03-07T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 167,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-14T19:30:00",
+      "end_time": "2023-03-14T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 168,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-21T19:30:00",
+      "end_time": "2023-03-21T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 169,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-28T19:30:00",
+      "end_time": "2023-03-28T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 170,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-04T19:30:00",
+      "end_time": "2023-04-04T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 171,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-11T19:30:00",
+      "end_time": "2023-04-11T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 172,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-18T19:30:00",
+      "end_time": "2023-04-18T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 173,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-25T19:30:00",
+      "end_time": "2023-04-25T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 174,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-02T19:30:00",
+      "end_time": "2023-05-02T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 175,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-09T19:30:00",
+      "end_time": "2023-05-09T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 176,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-16T19:30:00",
+      "end_time": "2023-05-16T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 177,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-23T19:30:00",
+      "end_time": "2023-05-23T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 178,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-30T19:30:00",
+      "end_time": "2023-05-30T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 179,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-06T19:30:00",
+      "end_time": "2023-06-06T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 180,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-13T19:30:00",
+      "end_time": "2023-06-13T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 181,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-20T19:30:00",
+      "end_time": "2023-06-20T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 182,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-27T19:30:00",
+      "end_time": "2023-06-27T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 183,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-04T19:30:00",
+      "end_time": "2023-07-04T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 184,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-11T19:30:00",
+      "end_time": "2023-07-11T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 185,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-18T19:30:00",
+      "end_time": "2023-07-18T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 186,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-25T19:30:00",
+      "end_time": "2023-07-25T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 187,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-01T19:30:00",
+      "end_time": "2023-08-01T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 188,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-08T19:30:00",
+      "end_time": "2023-08-08T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 189,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-15T19:30:00",
+      "end_time": "2023-08-15T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 190,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-22T19:30:00",
+      "end_time": "2023-08-22T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 191,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-29T19:30:00",
+      "end_time": "2023-08-29T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 192,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-05T19:30:00",
+      "end_time": "2023-09-05T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 193,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-12T19:30:00",
+      "end_time": "2023-09-12T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 194,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-19T19:30:00",
+      "end_time": "2023-09-19T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 195,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-26T19:30:00",
+      "end_time": "2023-09-26T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 196,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-03T19:30:00",
+      "end_time": "2023-10-03T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 197,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-10T19:30:00",
+      "end_time": "2023-10-10T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 198,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-17T19:30:00",
+      "end_time": "2023-10-17T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 199,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-24T19:30:00",
+      "end_time": "2023-10-24T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 200,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-31T19:30:00",
+      "end_time": "2023-10-31T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 201,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-07T19:30:00",
+      "end_time": "2023-11-07T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 202,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-14T19:30:00",
+      "end_time": "2023-11-14T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 203,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-21T19:30:00",
+      "end_time": "2023-11-21T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 204,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-28T19:30:00",
+      "end_time": "2023-11-28T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 205,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-05T19:30:00",
+      "end_time": "2023-12-05T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 206,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-12T19:30:00",
+      "end_time": "2023-12-12T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 207,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-19T19:30:00",
+      "end_time": "2023-12-19T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 208,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-26T19:30:00",
+      "end_time": "2023-12-26T21:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 209,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-04T19:00:00",
+      "end_time": "2023-01-04T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 210,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-11T19:00:00",
+      "end_time": "2023-01-11T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 211,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-18T19:00:00",
+      "end_time": "2023-01-18T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 212,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-25T19:00:00",
+      "end_time": "2023-01-25T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 213,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-01T19:00:00",
+      "end_time": "2023-02-01T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 214,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-08T19:00:00",
+      "end_time": "2023-02-08T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 215,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-15T19:00:00",
+      "end_time": "2023-02-15T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 216,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-22T19:00:00",
+      "end_time": "2023-02-22T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 217,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-01T19:00:00",
+      "end_time": "2023-03-01T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 218,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-08T19:00:00",
+      "end_time": "2023-03-08T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 219,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-15T19:00:00",
+      "end_time": "2023-03-15T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 220,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-22T19:00:00",
+      "end_time": "2023-03-22T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 221,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-29T19:00:00",
+      "end_time": "2023-03-29T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 222,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-05T19:00:00",
+      "end_time": "2023-04-05T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 223,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-12T19:00:00",
+      "end_time": "2023-04-12T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 224,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-19T19:00:00",
+      "end_time": "2023-04-19T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 225,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-26T19:00:00",
+      "end_time": "2023-04-26T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 226,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-03T19:00:00",
+      "end_time": "2023-05-03T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 227,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-10T19:00:00",
+      "end_time": "2023-05-10T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 228,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-17T19:00:00",
+      "end_time": "2023-05-17T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 229,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-24T19:00:00",
+      "end_time": "2023-05-24T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 230,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-31T19:00:00",
+      "end_time": "2023-05-31T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 231,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-07T19:00:00",
+      "end_time": "2023-06-07T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 232,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-14T19:00:00",
+      "end_time": "2023-06-14T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 233,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-21T19:00:00",
+      "end_time": "2023-06-21T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 234,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-28T19:00:00",
+      "end_time": "2023-06-28T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 235,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-05T19:00:00",
+      "end_time": "2023-07-05T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 236,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-12T19:00:00",
+      "end_time": "2023-07-12T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 237,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-19T19:00:00",
+      "end_time": "2023-07-19T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 238,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-26T19:00:00",
+      "end_time": "2023-07-26T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 239,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-02T19:00:00",
+      "end_time": "2023-08-02T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 240,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-09T19:00:00",
+      "end_time": "2023-08-09T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 241,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-16T19:00:00",
+      "end_time": "2023-08-16T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 242,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-23T19:00:00",
+      "end_time": "2023-08-23T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 243,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-30T19:00:00",
+      "end_time": "2023-08-30T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 244,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-06T19:00:00",
+      "end_time": "2023-09-06T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 245,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-13T19:00:00",
+      "end_time": "2023-09-13T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 246,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-20T19:00:00",
+      "end_time": "2023-09-20T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 247,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-27T19:00:00",
+      "end_time": "2023-09-27T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 248,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-04T19:00:00",
+      "end_time": "2023-10-04T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 249,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-11T19:00:00",
+      "end_time": "2023-10-11T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 250,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-18T19:00:00",
+      "end_time": "2023-10-18T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 251,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-25T19:00:00",
+      "end_time": "2023-10-25T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 252,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-01T19:00:00",
+      "end_time": "2023-11-01T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 253,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-08T19:00:00",
+      "end_time": "2023-11-08T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 254,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-15T19:00:00",
+      "end_time": "2023-11-15T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 255,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-22T19:00:00",
+      "end_time": "2023-11-22T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 256,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-29T19:00:00",
+      "end_time": "2023-11-29T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 257,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-06T19:00:00",
+      "end_time": "2023-12-06T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 258,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-13T19:00:00",
+      "end_time": "2023-12-13T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 259,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-20T19:00:00",
+      "end_time": "2023-12-20T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 260,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-27T19:00:00",
+      "end_time": "2023-12-27T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 261,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-06T17:30:00",
+      "end_time": "2023-01-06T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 262,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-13T17:30:00",
+      "end_time": "2023-01-13T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 263,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-20T17:30:00",
+      "end_time": "2023-01-20T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 264,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-01-27T17:30:00",
+      "end_time": "2023-01-27T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 265,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-03T17:30:00",
+      "end_time": "2023-02-03T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 266,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-10T17:30:00",
+      "end_time": "2023-02-10T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 267,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-17T17:30:00",
+      "end_time": "2023-02-17T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 268,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-02-24T17:30:00",
+      "end_time": "2023-02-24T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 269,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-03T17:30:00",
+      "end_time": "2023-03-03T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 270,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-10T17:30:00",
+      "end_time": "2023-03-10T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 271,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-17T17:30:00",
+      "end_time": "2023-03-17T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 272,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-24T17:30:00",
+      "end_time": "2023-03-24T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 273,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-03-31T17:30:00",
+      "end_time": "2023-03-31T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 274,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-07T17:30:00",
+      "end_time": "2023-04-07T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 275,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-14T17:30:00",
+      "end_time": "2023-04-14T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 276,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-21T17:30:00",
+      "end_time": "2023-04-21T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 277,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-04-28T17:30:00",
+      "end_time": "2023-04-28T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 278,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-05T17:30:00",
+      "end_time": "2023-05-05T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 279,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-12T17:30:00",
+      "end_time": "2023-05-12T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 280,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-19T17:30:00",
+      "end_time": "2023-05-19T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 281,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-05-26T17:30:00",
+      "end_time": "2023-05-26T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 282,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-02T17:30:00",
+      "end_time": "2023-06-02T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 283,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-09T17:30:00",
+      "end_time": "2023-06-09T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 284,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-16T17:30:00",
+      "end_time": "2023-06-16T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 285,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-23T17:30:00",
+      "end_time": "2023-06-23T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 286,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-06-30T17:30:00",
+      "end_time": "2023-06-30T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 287,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-07T17:30:00",
+      "end_time": "2023-07-07T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 288,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-14T17:30:00",
+      "end_time": "2023-07-14T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 289,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-21T17:30:00",
+      "end_time": "2023-07-21T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 290,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-07-28T17:30:00",
+      "end_time": "2023-07-28T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 291,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-04T17:30:00",
+      "end_time": "2023-08-04T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 292,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-11T17:30:00",
+      "end_time": "2023-08-11T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 293,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-18T17:30:00",
+      "end_time": "2023-08-18T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 294,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-08-25T17:30:00",
+      "end_time": "2023-08-25T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 295,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-01T17:30:00",
+      "end_time": "2023-09-01T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 296,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-08T17:30:00",
+      "end_time": "2023-09-08T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 297,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-15T17:30:00",
+      "end_time": "2023-09-15T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 298,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-22T17:30:00",
+      "end_time": "2023-09-22T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 299,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-09-29T17:30:00",
+      "end_time": "2023-09-29T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 300,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-06T17:30:00",
+      "end_time": "2023-10-06T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 301,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-13T17:30:00",
+      "end_time": "2023-10-13T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 302,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-20T17:30:00",
+      "end_time": "2023-10-20T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 303,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-10-27T17:30:00",
+      "end_time": "2023-10-27T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 304,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-03T17:30:00",
+      "end_time": "2023-11-03T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 305,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-10T17:30:00",
+      "end_time": "2023-11-10T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 306,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-17T17:30:00",
+      "end_time": "2023-11-17T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 307,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-11-24T17:30:00",
+      "end_time": "2023-11-24T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 308,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-01T17:30:00",
+      "end_time": "2023-12-01T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 309,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-08T17:30:00",
+      "end_time": "2023-12-08T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 310,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-15T17:30:00",
+      "end_time": "2023-12-15T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 311,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-22T17:30:00",
+      "end_time": "2023-12-22T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 312,
+    "fields": {
+      "group": 2,
+      "start_time": "2023-12-29T17:30:00",
+      "end_time": "2023-12-29T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 313,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-01-04T19:00:00",
+      "end_time": "2023-01-04T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 314,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-01-11T19:00:00",
+      "end_time": "2023-01-11T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 315,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-01-18T19:00:00",
+      "end_time": "2023-01-18T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 316,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-01-25T19:00:00",
+      "end_time": "2023-01-25T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 317,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-02-01T19:00:00",
+      "end_time": "2023-02-01T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 318,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-02-08T19:00:00",
+      "end_time": "2023-02-08T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 319,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-02-15T19:00:00",
+      "end_time": "2023-02-15T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 320,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-02-22T19:00:00",
+      "end_time": "2023-02-22T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 321,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-03-01T19:00:00",
+      "end_time": "2023-03-01T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 322,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-03-08T19:00:00",
+      "end_time": "2023-03-08T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 323,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-03-15T19:00:00",
+      "end_time": "2023-03-15T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 324,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-03-22T19:00:00",
+      "end_time": "2023-03-22T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 325,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-03-29T19:00:00",
+      "end_time": "2023-03-29T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 326,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-04-05T19:00:00",
+      "end_time": "2023-04-05T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 327,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-04-12T19:00:00",
+      "end_time": "2023-04-12T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 328,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-04-19T19:00:00",
+      "end_time": "2023-04-19T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 329,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-04-26T19:00:00",
+      "end_time": "2023-04-26T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 330,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-05-03T19:00:00",
+      "end_time": "2023-05-03T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 331,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-05-10T19:00:00",
+      "end_time": "2023-05-10T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 332,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-05-17T19:00:00",
+      "end_time": "2023-05-17T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 333,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-05-24T19:00:00",
+      "end_time": "2023-05-24T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 334,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-05-31T19:00:00",
+      "end_time": "2023-05-31T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 335,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-06-07T19:00:00",
+      "end_time": "2023-06-07T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 336,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-06-14T19:00:00",
+      "end_time": "2023-06-14T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 337,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-06-21T19:00:00",
+      "end_time": "2023-06-21T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 338,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-06-28T19:00:00",
+      "end_time": "2023-06-28T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 339,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-07-05T19:00:00",
+      "end_time": "2023-07-05T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 340,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-07-12T19:00:00",
+      "end_time": "2023-07-12T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 341,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-07-19T19:00:00",
+      "end_time": "2023-07-19T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 342,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-07-26T19:00:00",
+      "end_time": "2023-07-26T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 343,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-08-02T19:00:00",
+      "end_time": "2023-08-02T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 344,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-08-09T19:00:00",
+      "end_time": "2023-08-09T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 345,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-08-16T19:00:00",
+      "end_time": "2023-08-16T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 346,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-08-23T19:00:00",
+      "end_time": "2023-08-23T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 347,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-08-30T19:00:00",
+      "end_time": "2023-08-30T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 348,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-09-06T19:00:00",
+      "end_time": "2023-09-06T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 349,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-09-13T19:00:00",
+      "end_time": "2023-09-13T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 350,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-09-20T19:00:00",
+      "end_time": "2023-09-20T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 351,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-09-27T19:00:00",
+      "end_time": "2023-09-27T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 352,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-10-04T19:00:00",
+      "end_time": "2023-10-04T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 353,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-10-11T19:00:00",
+      "end_time": "2023-10-11T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 354,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-10-18T19:00:00",
+      "end_time": "2023-10-18T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 355,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-10-25T19:00:00",
+      "end_time": "2023-10-25T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 356,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-11-01T19:00:00",
+      "end_time": "2023-11-01T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 357,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-11-08T19:00:00",
+      "end_time": "2023-11-08T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 358,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-11-15T19:00:00",
+      "end_time": "2023-11-15T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 359,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-11-22T19:00:00",
+      "end_time": "2023-11-22T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 360,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-11-29T19:00:00",
+      "end_time": "2023-11-29T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 361,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-12-06T19:00:00",
+      "end_time": "2023-12-06T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 362,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-12-13T19:00:00",
+      "end_time": "2023-12-13T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 363,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-12-20T19:00:00",
+      "end_time": "2023-12-20T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 364,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-12-27T19:00:00",
+      "end_time": "2023-12-27T20:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 365,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-01-06T17:30:00",
+      "end_time": "2023-01-06T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 366,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-01-13T17:30:00",
+      "end_time": "2023-01-13T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 367,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-01-20T17:30:00",
+      "end_time": "2023-01-20T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 368,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-01-27T17:30:00",
+      "end_time": "2023-01-27T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 369,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-02-03T17:30:00",
+      "end_time": "2023-02-03T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 370,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-02-10T17:30:00",
+      "end_time": "2023-02-10T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 371,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-02-17T17:30:00",
+      "end_time": "2023-02-17T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 372,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-02-24T17:30:00",
+      "end_time": "2023-02-24T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 373,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-03-03T17:30:00",
+      "end_time": "2023-03-03T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 374,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-03-10T17:30:00",
+      "end_time": "2023-03-10T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 375,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-03-17T17:30:00",
+      "end_time": "2023-03-17T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 376,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-03-24T17:30:00",
+      "end_time": "2023-03-24T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 377,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-03-31T17:30:00",
+      "end_time": "2023-03-31T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 378,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-04-07T17:30:00",
+      "end_time": "2023-04-07T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 379,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-04-14T17:30:00",
+      "end_time": "2023-04-14T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 380,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-04-21T17:30:00",
+      "end_time": "2023-04-21T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 381,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-04-28T17:30:00",
+      "end_time": "2023-04-28T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 382,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-05-05T17:30:00",
+      "end_time": "2023-05-05T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 383,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-05-12T17:30:00",
+      "end_time": "2023-05-12T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 384,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-05-19T17:30:00",
+      "end_time": "2023-05-19T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 385,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-05-26T17:30:00",
+      "end_time": "2023-05-26T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 386,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-06-02T17:30:00",
+      "end_time": "2023-06-02T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 387,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-06-09T17:30:00",
+      "end_time": "2023-06-09T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 388,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-06-16T17:30:00",
+      "end_time": "2023-06-16T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 389,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-06-23T17:30:00",
+      "end_time": "2023-06-23T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 390,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-06-30T17:30:00",
+      "end_time": "2023-06-30T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 391,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-07-07T17:30:00",
+      "end_time": "2023-07-07T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 392,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-07-14T17:30:00",
+      "end_time": "2023-07-14T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 393,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-07-21T17:30:00",
+      "end_time": "2023-07-21T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 394,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-07-28T17:30:00",
+      "end_time": "2023-07-28T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 395,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-08-04T17:30:00",
+      "end_time": "2023-08-04T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 396,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-08-11T17:30:00",
+      "end_time": "2023-08-11T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 397,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-08-18T17:30:00",
+      "end_time": "2023-08-18T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 398,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-08-25T17:30:00",
+      "end_time": "2023-08-25T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 399,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-09-01T17:30:00",
+      "end_time": "2023-09-01T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 400,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-09-08T17:30:00",
+      "end_time": "2023-09-08T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 401,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-09-15T17:30:00",
+      "end_time": "2023-09-15T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 402,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-09-22T17:30:00",
+      "end_time": "2023-09-22T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 403,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-09-29T17:30:00",
+      "end_time": "2023-09-29T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 404,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-10-06T17:30:00",
+      "end_time": "2023-10-06T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 405,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-10-13T17:30:00",
+      "end_time": "2023-10-13T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 406,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-10-20T17:30:00",
+      "end_time": "2023-10-20T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 407,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-10-27T17:30:00",
+      "end_time": "2023-10-27T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 408,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-11-03T17:30:00",
+      "end_time": "2023-11-03T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 409,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-11-10T17:30:00",
+      "end_time": "2023-11-10T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 410,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-11-17T17:30:00",
+      "end_time": "2023-11-17T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 411,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-11-24T17:30:00",
+      "end_time": "2023-11-24T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 412,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-12-01T17:30:00",
+      "end_time": "2023-12-01T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 413,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-12-08T17:30:00",
+      "end_time": "2023-12-08T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 414,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-12-15T17:30:00",
+      "end_time": "2023-12-15T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 415,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-12-22T17:30:00",
+      "end_time": "2023-12-22T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 416,
+    "fields": {
+      "group": 3,
+      "start_time": "2023-12-29T17:30:00",
+      "end_time": "2023-12-29T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 417,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-02T17:30:00",
+      "end_time": "2023-01-02T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 418,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-09T17:30:00",
+      "end_time": "2023-01-09T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 419,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-16T17:30:00",
+      "end_time": "2023-01-16T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 420,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-23T17:30:00",
+      "end_time": "2023-01-23T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 421,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-30T17:30:00",
+      "end_time": "2023-01-30T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 422,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-02-06T17:30:00",
+      "end_time": "2023-02-06T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 423,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-02-13T17:30:00",
+      "end_time": "2023-02-13T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 424,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-02-20T17:30:00",
+      "end_time": "2023-02-20T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 425,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-02-27T17:30:00",
+      "end_time": "2023-02-27T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 426,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-06T17:30:00",
+      "end_time": "2023-03-06T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 427,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-13T17:30:00",
+      "end_time": "2023-03-13T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 428,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-20T17:30:00",
+      "end_time": "2023-03-20T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 429,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-27T17:30:00",
+      "end_time": "2023-03-27T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 430,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-04-03T17:30:00",
+      "end_time": "2023-04-03T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 431,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-04-10T17:30:00",
+      "end_time": "2023-04-10T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 432,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-04-17T17:30:00",
+      "end_time": "2023-04-17T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 433,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-04-24T17:30:00",
+      "end_time": "2023-04-24T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 434,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-01T17:30:00",
+      "end_time": "2023-05-01T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 435,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-08T17:30:00",
+      "end_time": "2023-05-08T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 436,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-15T17:30:00",
+      "end_time": "2023-05-15T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 437,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-22T17:30:00",
+      "end_time": "2023-05-22T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 438,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-29T17:30:00",
+      "end_time": "2023-05-29T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 439,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-06-05T17:30:00",
+      "end_time": "2023-06-05T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 440,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-06-12T17:30:00",
+      "end_time": "2023-06-12T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 441,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-06-19T17:30:00",
+      "end_time": "2023-06-19T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 442,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-06-26T17:30:00",
+      "end_time": "2023-06-26T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 443,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-03T17:30:00",
+      "end_time": "2023-07-03T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 444,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-10T17:30:00",
+      "end_time": "2023-07-10T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 445,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-17T17:30:00",
+      "end_time": "2023-07-17T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 446,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-24T17:30:00",
+      "end_time": "2023-07-24T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 447,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-31T17:30:00",
+      "end_time": "2023-07-31T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 448,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-07T17:30:00",
+      "end_time": "2023-08-07T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 449,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-14T17:30:00",
+      "end_time": "2023-08-14T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 450,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-21T17:30:00",
+      "end_time": "2023-08-21T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 451,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-28T17:30:00",
+      "end_time": "2023-08-28T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 452,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-09-04T17:30:00",
+      "end_time": "2023-09-04T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 453,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-09-11T17:30:00",
+      "end_time": "2023-09-11T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 454,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-09-18T17:30:00",
+      "end_time": "2023-09-18T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 455,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-09-25T17:30:00",
+      "end_time": "2023-09-25T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 456,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-02T17:30:00",
+      "end_time": "2023-10-02T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 457,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-09T17:30:00",
+      "end_time": "2023-10-09T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 458,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-16T17:30:00",
+      "end_time": "2023-10-16T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 459,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-23T17:30:00",
+      "end_time": "2023-10-23T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 460,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-30T17:30:00",
+      "end_time": "2023-10-30T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 461,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-06T17:30:00",
+      "end_time": "2023-11-06T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 462,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-13T17:30:00",
+      "end_time": "2023-11-13T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 463,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-20T17:30:00",
+      "end_time": "2023-11-20T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 464,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-27T17:30:00",
+      "end_time": "2023-11-27T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 465,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-12-04T17:30:00",
+      "end_time": "2023-12-04T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 466,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-12-11T17:30:00",
+      "end_time": "2023-12-11T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 467,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-12-18T17:30:00",
+      "end_time": "2023-12-18T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 468,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-12-25T17:30:00",
+      "end_time": "2023-12-25T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 469,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-03T18:00:00",
+      "end_time": "2023-01-03T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 470,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-10T18:00:00",
+      "end_time": "2023-01-10T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 471,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-17T18:00:00",
+      "end_time": "2023-01-17T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 472,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-24T18:00:00",
+      "end_time": "2023-01-24T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 473,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-31T18:00:00",
+      "end_time": "2023-01-31T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 474,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-02-07T18:00:00",
+      "end_time": "2023-02-07T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 475,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-02-14T18:00:00",
+      "end_time": "2023-02-14T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 476,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-02-21T18:00:00",
+      "end_time": "2023-02-21T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 477,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-02-28T18:00:00",
+      "end_time": "2023-02-28T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 478,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-07T18:00:00",
+      "end_time": "2023-03-07T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 479,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-14T18:00:00",
+      "end_time": "2023-03-14T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 480,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-21T18:00:00",
+      "end_time": "2023-03-21T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 481,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-28T18:00:00",
+      "end_time": "2023-03-28T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 482,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-04-04T18:00:00",
+      "end_time": "2023-04-04T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 483,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-04-11T18:00:00",
+      "end_time": "2023-04-11T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 484,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-04-18T18:00:00",
+      "end_time": "2023-04-18T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 485,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-04-25T18:00:00",
+      "end_time": "2023-04-25T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 486,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-02T18:00:00",
+      "end_time": "2023-05-02T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 487,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-09T18:00:00",
+      "end_time": "2023-05-09T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 488,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-16T18:00:00",
+      "end_time": "2023-05-16T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 489,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-23T18:00:00",
+      "end_time": "2023-05-23T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 490,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-30T18:00:00",
+      "end_time": "2023-05-30T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 491,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-06-06T18:00:00",
+      "end_time": "2023-06-06T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 492,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-06-13T18:00:00",
+      "end_time": "2023-06-13T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 493,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-06-20T18:00:00",
+      "end_time": "2023-06-20T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 494,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-06-27T18:00:00",
+      "end_time": "2023-06-27T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 495,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-04T18:00:00",
+      "end_time": "2023-07-04T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 496,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-11T18:00:00",
+      "end_time": "2023-07-11T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 497,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-18T18:00:00",
+      "end_time": "2023-07-18T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 498,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-25T18:00:00",
+      "end_time": "2023-07-25T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 499,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-01T18:00:00",
+      "end_time": "2023-08-01T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 500,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-08T18:00:00",
+      "end_time": "2023-08-08T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 501,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-15T18:00:00",
+      "end_time": "2023-08-15T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 502,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-22T18:00:00",
+      "end_time": "2023-08-22T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 503,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-29T18:00:00",
+      "end_time": "2023-08-29T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 504,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-09-05T18:00:00",
+      "end_time": "2023-09-05T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 505,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-09-12T18:00:00",
+      "end_time": "2023-09-12T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 506,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-09-19T18:00:00",
+      "end_time": "2023-09-19T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 507,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-09-26T18:00:00",
+      "end_time": "2023-09-26T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 508,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-03T18:00:00",
+      "end_time": "2023-10-03T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 509,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-10T18:00:00",
+      "end_time": "2023-10-10T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 510,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-17T18:00:00",
+      "end_time": "2023-10-17T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 511,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-24T18:00:00",
+      "end_time": "2023-10-24T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 512,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-31T18:00:00",
+      "end_time": "2023-10-31T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 513,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-07T18:00:00",
+      "end_time": "2023-11-07T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 514,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-14T18:00:00",
+      "end_time": "2023-11-14T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 515,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-21T18:00:00",
+      "end_time": "2023-11-21T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 516,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-28T18:00:00",
+      "end_time": "2023-11-28T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 517,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-12-05T18:00:00",
+      "end_time": "2023-12-05T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 518,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-12-12T18:00:00",
+      "end_time": "2023-12-12T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 519,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-12-19T18:00:00",
+      "end_time": "2023-12-19T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 520,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-12-26T18:00:00",
+      "end_time": "2023-12-26T19:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 521,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-04T17:30:00",
+      "end_time": "2023-01-04T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 522,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-11T17:30:00",
+      "end_time": "2023-01-11T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 523,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-18T17:30:00",
+      "end_time": "2023-01-18T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 524,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-01-25T17:30:00",
+      "end_time": "2023-01-25T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 525,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-02-01T17:30:00",
+      "end_time": "2023-02-01T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 526,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-02-08T17:30:00",
+      "end_time": "2023-02-08T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 527,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-02-15T17:30:00",
+      "end_time": "2023-02-15T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 528,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-02-22T17:30:00",
+      "end_time": "2023-02-22T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 529,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-01T17:30:00",
+      "end_time": "2023-03-01T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 530,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-08T17:30:00",
+      "end_time": "2023-03-08T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 531,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-15T17:30:00",
+      "end_time": "2023-03-15T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 532,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-22T17:30:00",
+      "end_time": "2023-03-22T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 533,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-03-29T17:30:00",
+      "end_time": "2023-03-29T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 534,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-04-05T17:30:00",
+      "end_time": "2023-04-05T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 535,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-04-12T17:30:00",
+      "end_time": "2023-04-12T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 536,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-04-19T17:30:00",
+      "end_time": "2023-04-19T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 537,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-04-26T17:30:00",
+      "end_time": "2023-04-26T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 538,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-03T17:30:00",
+      "end_time": "2023-05-03T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 539,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-10T17:30:00",
+      "end_time": "2023-05-10T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 540,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-17T17:30:00",
+      "end_time": "2023-05-17T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 541,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-24T17:30:00",
+      "end_time": "2023-05-24T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 542,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-05-31T17:30:00",
+      "end_time": "2023-05-31T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 543,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-06-07T17:30:00",
+      "end_time": "2023-06-07T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 544,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-06-14T17:30:00",
+      "end_time": "2023-06-14T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 545,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-06-21T17:30:00",
+      "end_time": "2023-06-21T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 546,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-06-28T17:30:00",
+      "end_time": "2023-06-28T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 547,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-05T17:30:00",
+      "end_time": "2023-07-05T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 548,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-12T17:30:00",
+      "end_time": "2023-07-12T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 549,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-19T17:30:00",
+      "end_time": "2023-07-19T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 550,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-07-26T17:30:00",
+      "end_time": "2023-07-26T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 551,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-02T17:30:00",
+      "end_time": "2023-08-02T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 552,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-09T17:30:00",
+      "end_time": "2023-08-09T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 553,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-16T17:30:00",
+      "end_time": "2023-08-16T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 554,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-23T17:30:00",
+      "end_time": "2023-08-23T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 555,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-08-30T17:30:00",
+      "end_time": "2023-08-30T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 556,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-09-06T17:30:00",
+      "end_time": "2023-09-06T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 557,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-09-13T17:30:00",
+      "end_time": "2023-09-13T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 558,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-09-20T17:30:00",
+      "end_time": "2023-09-20T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 559,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-09-27T17:30:00",
+      "end_time": "2023-09-27T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 560,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-04T17:30:00",
+      "end_time": "2023-10-04T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 561,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-11T17:30:00",
+      "end_time": "2023-10-11T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 562,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-18T17:30:00",
+      "end_time": "2023-10-18T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 563,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-10-25T17:30:00",
+      "end_time": "2023-10-25T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 564,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-01T17:30:00",
+      "end_time": "2023-11-01T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 565,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-08T17:30:00",
+      "end_time": "2023-11-08T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 566,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-15T17:30:00",
+      "end_time": "2023-11-15T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 567,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-22T17:30:00",
+      "end_time": "2023-11-22T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 568,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-11-29T17:30:00",
+      "end_time": "2023-11-29T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 569,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-12-06T17:30:00",
+      "end_time": "2023-12-06T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 570,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-12-13T17:30:00",
+      "end_time": "2023-12-13T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 571,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-12-20T17:30:00",
+      "end_time": "2023-12-20T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 572,
+    "fields": {
+      "group": 4,
+      "start_time": "2023-12-27T17:30:00",
+      "end_time": "2023-12-27T19:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 573,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-03T16:30:00",
+      "end_time": "2023-01-03T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 574,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-10T16:30:00",
+      "end_time": "2023-01-10T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 575,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-17T16:30:00",
+      "end_time": "2023-01-17T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 576,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-24T16:30:00",
+      "end_time": "2023-01-24T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 577,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-31T16:30:00",
+      "end_time": "2023-01-31T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 578,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-02-07T16:30:00",
+      "end_time": "2023-02-07T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 579,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-02-14T16:30:00",
+      "end_time": "2023-02-14T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 580,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-02-21T16:30:00",
+      "end_time": "2023-02-21T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 581,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-02-28T16:30:00",
+      "end_time": "2023-02-28T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 582,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-07T16:30:00",
+      "end_time": "2023-03-07T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 583,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-14T16:30:00",
+      "end_time": "2023-03-14T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 584,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-21T16:30:00",
+      "end_time": "2023-03-21T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 585,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-28T16:30:00",
+      "end_time": "2023-03-28T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 586,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-04-04T16:30:00",
+      "end_time": "2023-04-04T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 587,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-04-11T16:30:00",
+      "end_time": "2023-04-11T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 588,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-04-18T16:30:00",
+      "end_time": "2023-04-18T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 589,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-04-25T16:30:00",
+      "end_time": "2023-04-25T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 590,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-02T16:30:00",
+      "end_time": "2023-05-02T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 591,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-09T16:30:00",
+      "end_time": "2023-05-09T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 592,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-16T16:30:00",
+      "end_time": "2023-05-16T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 593,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-23T16:30:00",
+      "end_time": "2023-05-23T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 594,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-30T16:30:00",
+      "end_time": "2023-05-30T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 595,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-06-06T16:30:00",
+      "end_time": "2023-06-06T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 596,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-06-13T16:30:00",
+      "end_time": "2023-06-13T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 597,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-06-20T16:30:00",
+      "end_time": "2023-06-20T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 598,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-06-27T16:30:00",
+      "end_time": "2023-06-27T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 599,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-07-04T16:30:00",
+      "end_time": "2023-07-04T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 600,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-07-11T16:30:00",
+      "end_time": "2023-07-11T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 601,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-07-18T16:30:00",
+      "end_time": "2023-07-18T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 602,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-07-25T16:30:00",
+      "end_time": "2023-07-25T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 603,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-01T16:30:00",
+      "end_time": "2023-08-01T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 604,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-08T16:30:00",
+      "end_time": "2023-08-08T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 605,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-15T16:30:00",
+      "end_time": "2023-08-15T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 606,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-22T16:30:00",
+      "end_time": "2023-08-22T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 607,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-29T16:30:00",
+      "end_time": "2023-08-29T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 608,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-09-05T16:30:00",
+      "end_time": "2023-09-05T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 609,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-09-12T16:30:00",
+      "end_time": "2023-09-12T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 610,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-09-19T16:30:00",
+      "end_time": "2023-09-19T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 611,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-09-26T16:30:00",
+      "end_time": "2023-09-26T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 612,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-03T16:30:00",
+      "end_time": "2023-10-03T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 613,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-10T16:30:00",
+      "end_time": "2023-10-10T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 614,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-17T16:30:00",
+      "end_time": "2023-10-17T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 615,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-24T16:30:00",
+      "end_time": "2023-10-24T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 616,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-31T16:30:00",
+      "end_time": "2023-10-31T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 617,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-07T16:30:00",
+      "end_time": "2023-11-07T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 618,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-14T16:30:00",
+      "end_time": "2023-11-14T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 619,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-21T16:30:00",
+      "end_time": "2023-11-21T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 620,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-28T16:30:00",
+      "end_time": "2023-11-28T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 621,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-12-05T16:30:00",
+      "end_time": "2023-12-05T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 622,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-12-12T16:30:00",
+      "end_time": "2023-12-12T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 623,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-12-19T16:30:00",
+      "end_time": "2023-12-19T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 624,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-12-26T16:30:00",
+      "end_time": "2023-12-26T17:15:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 625,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-03T17:15:00",
+      "end_time": "2023-01-03T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 626,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-10T17:15:00",
+      "end_time": "2023-01-10T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 627,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-17T17:15:00",
+      "end_time": "2023-01-17T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 628,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-24T17:15:00",
+      "end_time": "2023-01-24T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 629,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-31T17:15:00",
+      "end_time": "2023-01-31T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 630,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-02-07T17:15:00",
+      "end_time": "2023-02-07T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 631,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-02-14T17:15:00",
+      "end_time": "2023-02-14T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 632,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-02-21T17:15:00",
+      "end_time": "2023-02-21T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 633,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-02-28T17:15:00",
+      "end_time": "2023-02-28T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 634,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-07T17:15:00",
+      "end_time": "2023-03-07T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 635,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-14T17:15:00",
+      "end_time": "2023-03-14T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 636,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-21T17:15:00",
+      "end_time": "2023-03-21T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 637,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-28T17:15:00",
+      "end_time": "2023-03-28T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 638,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-04-04T17:15:00",
+      "end_time": "2023-04-04T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 639,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-04-11T17:15:00",
+      "end_time": "2023-04-11T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 640,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-04-18T17:15:00",
+      "end_time": "2023-04-18T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 641,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-04-25T17:15:00",
+      "end_time": "2023-04-25T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 642,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-02T17:15:00",
+      "end_time": "2023-05-02T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 643,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-09T17:15:00",
+      "end_time": "2023-05-09T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 644,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-16T17:15:00",
+      "end_time": "2023-05-16T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 645,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-23T17:15:00",
+      "end_time": "2023-05-23T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 646,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-30T17:15:00",
+      "end_time": "2023-05-30T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 647,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-06-06T17:15:00",
+      "end_time": "2023-06-06T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 648,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-06-13T17:15:00",
+      "end_time": "2023-06-13T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 649,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-06-20T17:15:00",
+      "end_time": "2023-06-20T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 650,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-06-27T17:15:00",
+      "end_time": "2023-06-27T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 651,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-07-04T17:15:00",
+      "end_time": "2023-07-04T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 652,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-07-11T17:15:00",
+      "end_time": "2023-07-11T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 653,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-07-18T17:15:00",
+      "end_time": "2023-07-18T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 654,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-07-25T17:15:00",
+      "end_time": "2023-07-25T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 655,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-01T17:15:00",
+      "end_time": "2023-08-01T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 656,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-08T17:15:00",
+      "end_time": "2023-08-08T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 657,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-15T17:15:00",
+      "end_time": "2023-08-15T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 658,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-22T17:15:00",
+      "end_time": "2023-08-22T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 659,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-29T17:15:00",
+      "end_time": "2023-08-29T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 660,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-09-05T17:15:00",
+      "end_time": "2023-09-05T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 661,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-09-12T17:15:00",
+      "end_time": "2023-09-12T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 662,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-09-19T17:15:00",
+      "end_time": "2023-09-19T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 663,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-09-26T17:15:00",
+      "end_time": "2023-09-26T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 664,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-03T17:15:00",
+      "end_time": "2023-10-03T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 665,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-10T17:15:00",
+      "end_time": "2023-10-10T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 666,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-17T17:15:00",
+      "end_time": "2023-10-17T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 667,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-24T17:15:00",
+      "end_time": "2023-10-24T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 668,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-31T17:15:00",
+      "end_time": "2023-10-31T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 669,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-07T17:15:00",
+      "end_time": "2023-11-07T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 670,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-14T17:15:00",
+      "end_time": "2023-11-14T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 671,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-21T17:15:00",
+      "end_time": "2023-11-21T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 672,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-28T17:15:00",
+      "end_time": "2023-11-28T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 673,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-12-05T17:15:00",
+      "end_time": "2023-12-05T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 674,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-12-12T17:15:00",
+      "end_time": "2023-12-12T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 675,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-12-19T17:15:00",
+      "end_time": "2023-12-19T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 676,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-12-26T17:15:00",
+      "end_time": "2023-12-26T18:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 677,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-04T16:30:00",
+      "end_time": "2023-01-04T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 678,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-11T16:30:00",
+      "end_time": "2023-01-11T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 679,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-18T16:30:00",
+      "end_time": "2023-01-18T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 680,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-01-25T16:30:00",
+      "end_time": "2023-01-25T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 681,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-02-01T16:30:00",
+      "end_time": "2023-02-01T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 682,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-02-08T16:30:00",
+      "end_time": "2023-02-08T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 683,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-02-15T16:30:00",
+      "end_time": "2023-02-15T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 684,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-02-22T16:30:00",
+      "end_time": "2023-02-22T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 685,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-01T16:30:00",
+      "end_time": "2023-03-01T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 686,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-08T16:30:00",
+      "end_time": "2023-03-08T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 687,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-15T16:30:00",
+      "end_time": "2023-03-15T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 688,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-22T16:30:00",
+      "end_time": "2023-03-22T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 689,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-03-29T16:30:00",
+      "end_time": "2023-03-29T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 690,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-04-05T16:30:00",
+      "end_time": "2023-04-05T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 691,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-04-12T16:30:00",
+      "end_time": "2023-04-12T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 692,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-04-19T16:30:00",
+      "end_time": "2023-04-19T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 693,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-04-26T16:30:00",
+      "end_time": "2023-04-26T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 694,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-03T16:30:00",
+      "end_time": "2023-05-03T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 695,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-10T16:30:00",
+      "end_time": "2023-05-10T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 696,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-17T16:30:00",
+      "end_time": "2023-05-17T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 697,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-24T16:30:00",
+      "end_time": "2023-05-24T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 698,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-05-31T16:30:00",
+      "end_time": "2023-05-31T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 699,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-06-07T16:30:00",
+      "end_time": "2023-06-07T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 700,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-06-14T16:30:00",
+      "end_time": "2023-06-14T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 701,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-06-21T16:30:00",
+      "end_time": "2023-06-21T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 702,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-06-28T16:30:00",
+      "end_time": "2023-06-28T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 703,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-07-05T16:30:00",
+      "end_time": "2023-07-05T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 704,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-07-12T16:30:00",
+      "end_time": "2023-07-12T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 705,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-07-19T16:30:00",
+      "end_time": "2023-07-19T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 706,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-07-26T16:30:00",
+      "end_time": "2023-07-26T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 707,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-02T16:30:00",
+      "end_time": "2023-08-02T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 708,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-09T16:30:00",
+      "end_time": "2023-08-09T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 709,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-16T16:30:00",
+      "end_time": "2023-08-16T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 710,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-23T16:30:00",
+      "end_time": "2023-08-23T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 711,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-08-30T16:30:00",
+      "end_time": "2023-08-30T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 712,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-09-06T16:30:00",
+      "end_time": "2023-09-06T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 713,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-09-13T16:30:00",
+      "end_time": "2023-09-13T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 714,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-09-20T16:30:00",
+      "end_time": "2023-09-20T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 715,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-09-27T16:30:00",
+      "end_time": "2023-09-27T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 716,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-04T16:30:00",
+      "end_time": "2023-10-04T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 717,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-11T16:30:00",
+      "end_time": "2023-10-11T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 718,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-18T16:30:00",
+      "end_time": "2023-10-18T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 719,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-10-25T16:30:00",
+      "end_time": "2023-10-25T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 720,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-01T16:30:00",
+      "end_time": "2023-11-01T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 721,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-08T16:30:00",
+      "end_time": "2023-11-08T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 722,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-15T16:30:00",
+      "end_time": "2023-11-15T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 723,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-22T16:30:00",
+      "end_time": "2023-11-22T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 724,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-11-29T16:30:00",
+      "end_time": "2023-11-29T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 725,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-12-06T16:30:00",
+      "end_time": "2023-12-06T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 726,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-12-13T16:30:00",
+      "end_time": "2023-12-13T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 727,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-12-20T16:30:00",
+      "end_time": "2023-12-20T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 728,
+    "fields": {
+      "group": 5,
+      "start_time": "2023-12-27T16:30:00",
+      "end_time": "2023-12-27T17:30:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 729,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-01-02T21:00:00",
+      "end_time": "2023-01-02T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 730,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-01-09T21:00:00",
+      "end_time": "2023-01-09T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 731,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-01-16T21:00:00",
+      "end_time": "2023-01-16T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 732,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-01-23T21:00:00",
+      "end_time": "2023-01-23T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 733,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-01-30T21:00:00",
+      "end_time": "2023-01-30T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 734,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-02-06T21:00:00",
+      "end_time": "2023-02-06T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 735,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-02-13T21:00:00",
+      "end_time": "2023-02-13T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 736,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-02-20T21:00:00",
+      "end_time": "2023-02-20T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 737,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-02-27T21:00:00",
+      "end_time": "2023-02-27T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 738,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-03-06T21:00:00",
+      "end_time": "2023-03-06T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 739,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-03-13T21:00:00",
+      "end_time": "2023-03-13T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 740,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-03-20T21:00:00",
+      "end_time": "2023-03-20T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 741,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-03-27T21:00:00",
+      "end_time": "2023-03-27T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 742,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-04-03T21:00:00",
+      "end_time": "2023-04-03T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 743,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-04-10T21:00:00",
+      "end_time": "2023-04-10T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 744,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-04-17T21:00:00",
+      "end_time": "2023-04-17T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 745,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-04-24T21:00:00",
+      "end_time": "2023-04-24T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 746,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-05-01T21:00:00",
+      "end_time": "2023-05-01T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 747,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-05-08T21:00:00",
+      "end_time": "2023-05-08T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 748,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-05-15T21:00:00",
+      "end_time": "2023-05-15T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 749,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-05-22T21:00:00",
+      "end_time": "2023-05-22T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 750,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-05-29T21:00:00",
+      "end_time": "2023-05-29T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 751,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-06-05T21:00:00",
+      "end_time": "2023-06-05T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 752,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-06-12T21:00:00",
+      "end_time": "2023-06-12T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 753,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-06-19T21:00:00",
+      "end_time": "2023-06-19T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 754,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-06-26T21:00:00",
+      "end_time": "2023-06-26T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 755,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-07-03T21:00:00",
+      "end_time": "2023-07-03T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 756,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-07-10T21:00:00",
+      "end_time": "2023-07-10T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 757,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-07-17T21:00:00",
+      "end_time": "2023-07-17T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 758,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-07-24T21:00:00",
+      "end_time": "2023-07-24T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 759,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-07-31T21:00:00",
+      "end_time": "2023-07-31T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 760,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-08-07T21:00:00",
+      "end_time": "2023-08-07T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 761,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-08-14T21:00:00",
+      "end_time": "2023-08-14T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 762,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-08-21T21:00:00",
+      "end_time": "2023-08-21T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 763,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-08-28T21:00:00",
+      "end_time": "2023-08-28T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 764,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-09-04T21:00:00",
+      "end_time": "2023-09-04T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 765,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-09-11T21:00:00",
+      "end_time": "2023-09-11T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 766,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-09-18T21:00:00",
+      "end_time": "2023-09-18T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 767,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-09-25T21:00:00",
+      "end_time": "2023-09-25T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 768,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-10-02T21:00:00",
+      "end_time": "2023-10-02T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 769,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-10-09T21:00:00",
+      "end_time": "2023-10-09T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 770,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-10-16T21:00:00",
+      "end_time": "2023-10-16T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 771,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-10-23T21:00:00",
+      "end_time": "2023-10-23T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 772,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-10-30T21:00:00",
+      "end_time": "2023-10-30T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 773,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-11-06T21:00:00",
+      "end_time": "2023-11-06T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 774,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-11-13T21:00:00",
+      "end_time": "2023-11-13T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 775,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-11-20T21:00:00",
+      "end_time": "2023-11-20T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 776,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-11-27T21:00:00",
+      "end_time": "2023-11-27T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 777,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-12-04T21:00:00",
+      "end_time": "2023-12-04T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 778,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-12-11T21:00:00",
+      "end_time": "2023-12-11T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 779,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-12-18T21:00:00",
+      "end_time": "2023-12-18T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 780,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-12-25T21:00:00",
+      "end_time": "2023-12-25T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 781,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-01-04T20:30:00",
+      "end_time": "2023-01-04T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 782,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-01-11T20:30:00",
+      "end_time": "2023-01-11T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 783,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-01-18T20:30:00",
+      "end_time": "2023-01-18T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 784,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-01-25T20:30:00",
+      "end_time": "2023-01-25T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 785,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-02-01T20:30:00",
+      "end_time": "2023-02-01T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 786,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-02-08T20:30:00",
+      "end_time": "2023-02-08T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 787,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-02-15T20:30:00",
+      "end_time": "2023-02-15T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 788,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-02-22T20:30:00",
+      "end_time": "2023-02-22T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 789,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-03-01T20:30:00",
+      "end_time": "2023-03-01T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 790,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-03-08T20:30:00",
+      "end_time": "2023-03-08T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 791,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-03-15T20:30:00",
+      "end_time": "2023-03-15T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 792,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-03-22T20:30:00",
+      "end_time": "2023-03-22T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 793,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-03-29T20:30:00",
+      "end_time": "2023-03-29T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 794,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-04-05T20:30:00",
+      "end_time": "2023-04-05T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 795,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-04-12T20:30:00",
+      "end_time": "2023-04-12T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 796,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-04-19T20:30:00",
+      "end_time": "2023-04-19T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 797,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-04-26T20:30:00",
+      "end_time": "2023-04-26T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 798,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-05-03T20:30:00",
+      "end_time": "2023-05-03T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 799,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-05-10T20:30:00",
+      "end_time": "2023-05-10T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 800,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-05-17T20:30:00",
+      "end_time": "2023-05-17T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 801,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-05-24T20:30:00",
+      "end_time": "2023-05-24T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 802,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-05-31T20:30:00",
+      "end_time": "2023-05-31T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 803,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-06-07T20:30:00",
+      "end_time": "2023-06-07T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 804,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-06-14T20:30:00",
+      "end_time": "2023-06-14T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 805,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-06-21T20:30:00",
+      "end_time": "2023-06-21T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 806,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-06-28T20:30:00",
+      "end_time": "2023-06-28T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 807,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-07-05T20:30:00",
+      "end_time": "2023-07-05T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 808,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-07-12T20:30:00",
+      "end_time": "2023-07-12T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 809,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-07-19T20:30:00",
+      "end_time": "2023-07-19T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 810,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-07-26T20:30:00",
+      "end_time": "2023-07-26T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 811,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-08-02T20:30:00",
+      "end_time": "2023-08-02T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 812,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-08-09T20:30:00",
+      "end_time": "2023-08-09T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 813,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-08-16T20:30:00",
+      "end_time": "2023-08-16T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 814,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-08-23T20:30:00",
+      "end_time": "2023-08-23T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 815,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-08-30T20:30:00",
+      "end_time": "2023-08-30T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 816,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-09-06T20:30:00",
+      "end_time": "2023-09-06T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 817,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-09-13T20:30:00",
+      "end_time": "2023-09-13T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 818,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-09-20T20:30:00",
+      "end_time": "2023-09-20T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 819,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-09-27T20:30:00",
+      "end_time": "2023-09-27T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 820,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-10-04T20:30:00",
+      "end_time": "2023-10-04T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 821,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-10-11T20:30:00",
+      "end_time": "2023-10-11T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 822,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-10-18T20:30:00",
+      "end_time": "2023-10-18T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 823,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-10-25T20:30:00",
+      "end_time": "2023-10-25T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 824,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-11-01T20:30:00",
+      "end_time": "2023-11-01T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 825,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-11-08T20:30:00",
+      "end_time": "2023-11-08T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 826,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-11-15T20:30:00",
+      "end_time": "2023-11-15T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 827,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-11-22T20:30:00",
+      "end_time": "2023-11-22T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 828,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-11-29T20:30:00",
+      "end_time": "2023-11-29T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 829,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-12-06T20:30:00",
+      "end_time": "2023-12-06T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 830,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-12-13T20:30:00",
+      "end_time": "2023-12-13T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 831,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-12-20T20:30:00",
+      "end_time": "2023-12-20T22:00:00"
+    }
+  },
+  {
+    "model": "club.training",
+    "pk": 832,
+    "fields": {
+      "group": 6,
+      "start_time": "2023-12-27T20:30:00",
+      "end_time": "2023-12-27T22:00:00"
+    }
+  }
+]

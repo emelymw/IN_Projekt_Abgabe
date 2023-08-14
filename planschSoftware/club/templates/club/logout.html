@@ -1,0 +1,9 @@
+{% extends "club/base_without_navbar.html" %}
+{% block content %}
+    <h2>Erfolgreich abgemeldet!</h2>
+    <div class="border-top pt-3">
+        <button type="button" class="btn btn-outline-primary" onclick="location.href='{% url 'user-login' %}'">
+            Wieder anmelden
+        </button>
+    </div>
+{% endblock content %}>

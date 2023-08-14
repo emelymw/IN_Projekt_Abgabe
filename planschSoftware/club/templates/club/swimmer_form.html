@@ -1,0 +1,43 @@
+{% extends "club/base.html" %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+    <h2>Schwimmer</h2>
+    <hr>
+    <form method="POST">
+        {% csrf_token %}
+        <div class="row">
+            <div class="col col-md-2 mb-0">
+                {{ form.dsv_id|as_crispy_field }}
+            </div>
+            <div class="col col-md-5 mb-0">
+                {{ form.first_name|as_crispy_field }}
+            </div>
+            <div class="col col-md-5 mb-0">
+                {{ form.last_name|as_crispy_field }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col col-md-2 mb-0">
+                {{ form.birth_date|as_crispy_field }}
+            </div>
+            <div class="col col-md-10 mb-0">
+                {{ form.email|as_crispy_field }}
+            </div>
+        </div>
+
+        {{ form.attest|as_crispy_field }}
+        {{ form.group|as_crispy_field }}
+
+        <div class="d-flex flex-row-reverse">
+            <div class="p-2">
+                <button type="submit" class="btn btn-primary">Bestätigen</button>
+            </div>
+            <div class="p-2">
+                <button button type="button" class="btn btn-outline-primary"
+                        onclick="location.href='javascript:window.history.back()'">Abbrechen
+                </button>
+            </div>
+        </div>
+    </form>
+{% endblock content %}

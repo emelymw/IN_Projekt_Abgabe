@@ -1,0 +1,23 @@
+{% extends "club/base.html" %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+    <h2>Training Anwesenheiten </h2>
+    <hr>
+    <form action="" method="post">
+        {% csrf_token %}
+        {{ form|crispy }}
+
+        <div class="d-flex flex-row-reverse">
+            <div class="p-2">
+                <button type="submit" class="btn btn-primary">Bestätigen</button>
+            </div>
+            <div class="p-2">
+                <button button type="button" class="btn btn-outline-primary"
+                        onclick="location.href='javascript:window.history.back();'">Abbrechen
+                </button>
+            </div>
+        </div>
+    </form>
+{% endblock %}

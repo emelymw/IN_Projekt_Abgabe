@@ -1,0 +1,864 @@
+[
+  {
+    "model": "club.Address",
+    "pk": 1,
+    "fields": {
+      "postcode": 12345,
+      "city_name": "Musterstadt",
+      "street_name": "Musterstraße",
+      "house_number": 1
+    }
+  },
+  {
+    "model": "club.Club",
+    "pk": "#123456",
+    "fields": {
+      "name": "Sportgemeinschaft Musterstadt e.V. ",
+      "short_name": "SG Musterstadt",
+      "department": "Schwimmen",
+      "address": 1
+    }
+  },
+  {
+    "model": "club.departmentmanager",
+    "pk": 1,
+    "fields": {
+      "user": 2,
+      "email": "veronika@hering.de"
+    }
+  },
+  {
+    "model": "club.departmentmanager",
+    "pk": 2,
+    "fields": {
+      "user": 4,
+      "email": "dierk@waitz.de"
+    }
+  },
+  {
+    "model": "club.trainer",
+    "pk": 1,
+    "fields": {
+      "user": 3,
+      "birth_date": "1997-07-08",
+      "education": "C-Trainer",
+      "expiry_date_first_aid": "2023-07-22",
+      "expiry_date_lifeguard": "2023-07-22"
+    }
+  },
+  {
+    "model": "club.trainer",
+    "pk": 2,
+    "fields": {
+      "user": 5,
+      "birth_date": "1996-10-13",
+      "education": "B-Trainer",
+      "expiry_date_first_aid": "2023-07-22",
+      "expiry_date_lifeguard": "2023-07-22"
+    }
+  },
+  {
+    "model": "club.trainer",
+    "pk": 3,
+    "fields": {
+      "user": 6,
+      "birth_date": "1999-03-22",
+      "education": "Trainerassistent",
+      "expiry_date_first_aid": "2023-07-22",
+      "expiry_date_lifeguard": "2023-07-22"
+    }
+  },
+  {
+    "model": "club.trainer",
+    "pk": 4,
+    "fields": {
+      "user": 7,
+      "birth_date": "2005-12-31",
+      "education": "Junior-Trainer",
+      "expiry_date_first_aid": "2023-07-22",
+      "expiry_date_lifeguard": "2023-07-22"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$THW9YIT1rYZbWUflPDGeNh$3XypmuJwCbwe3VHoQZGAk3YJ7Uo7LjjdHqqSk3NqMrE=",
+      "last_login": "2023-07-29T15:56:26.415",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-07-29T15:56:10.156",
+      "groups": [
+      ],
+      "user_permissions": [
+      ]
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$gioXr5YjvJr81HcZSRXGc2$dARyCJMqbJQ15mTSDnonYSCQjVPmCzogUT0rP+8mjdc=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "veronika",
+      "first_name": "Veronika",
+      "last_name": "Hering",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-07-29T16:14:04",
+      "groups": [
+      ],
+      "user_permissions": [
+      ]
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$QMvlk5AuMzS4VCX2sVG3OB$v6AgC8GXP48rCiGJfQOLXbIKgII6gtC+UVJehHs3kp8=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "joshua",
+      "first_name": "Joshua",
+      "last_name": "Beltre",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-07-29T16:29:02.767",
+      "groups": [
+      ],
+      "user_permissions": [
+      ]
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$5UVwT86hSoWlWzo8IENMsS$5LBcUabjk+JMfRJw15mGFf3e+aC7KEJ1Afe3358qVtI=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "dierk",
+      "first_name": "Dierk",
+      "last_name": "Waitz",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-07-29T16:32:03.035",
+      "groups": [
+      ],
+      "user_permissions": [
+      ]
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 5,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$THW9YIT1rYZbWUflPDGeNh$3XypmuJwCbwe3VHoQZGAk3YJ7Uo7LjjdHqqSk3NqMrE=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "isabella",
+      "first_name": "Isabella",
+      "last_name": "Singh",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-07-29T16:29:02.767",
+      "groups": [
+      ],
+      "user_permissions": [
+      ]
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 6,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$THW9YIT1rYZbWUflPDGeNh$3XypmuJwCbwe3VHoQZGAk3YJ7Uo7LjjdHqqSk3NqMrE=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "lucas",
+      "first_name": "Lucas",
+      "last_name": "Martinez",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-07-29T16:29:02.767",
+      "groups": [
+      ],
+      "user_permissions": [
+      ]
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 7,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$THW9YIT1rYZbWUflPDGeNh$3XypmuJwCbwe3VHoQZGAk3YJ7Uo7LjjdHqqSk3NqMrE=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "emily",
+      "first_name": "Emily",
+      "last_name": "Johnson",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-07-29T16:29:02.767",
+      "groups": [
+      ],
+      "user_permissions": [
+      ]
+    }
+  },
+  {
+    "model": "club.swimmgroup",
+    "pk": 1,
+    "fields": {
+      "short_name": "BS",
+      "name": "Breitensport",
+      "description": "Voraussetzung: Sicheres Schwimmen in den 3 Lagen Rücken, Kraul und Brust (vor der Gruppenzuteilung findet ein Vorschwimmen statt). Ziel: Vertiefung aller Stilarten. Der Spaß an der Bewegung steht im Vordergrund.",
+      "age_group": "8-18 Jahre",
+      "competition_participation": false,
+      "main_trainer": 1,
+      "trainer": [
+      ]
+    }
+  },
+  {
+    "model": "club.swimmgroup",
+    "pk": 2,
+    "fields": {
+      "short_name": "LG1",
+      "name": "Leistungsgruppe 1",
+      "description": "Voraussetzung: Beherrschung aller Stilarten (Brust/Freistil/Rücken/Grundlagen Delphin), Ziel: kontinuierliche Weiterentwicklung deiner persönlichen Bestzeiten und das Erreichen von Wettkampf-Pflichtzeiten.",
+      "age_group": "10-20 Jahre",
+      "competition_participation": true,
+      "main_trainer": 1,
+      "trainer": [
+      ]
+    }
+  },
+  {
+    "model": "club.swimmgroup",
+    "pk": 3,
+    "fields": {
+      "short_name": "LG2",
+      "name": "Leistungsgruppe 2",
+      "description": "Voraussetzung: Beherrschung aller Stilarten (Brust/Freistil/Rücken/Grundlagen Delphin), Ziel: kontinuierliche Verbesserung deiner pers÷nlichen Bestzeit!",
+      "age_group": "12 - 18 Jahre",
+      "competition_participation": true,
+      "main_trainer": 1,
+      "trainer": [
+      ]
+    }
+  },
+  {
+    "model": "club.swimmgroup",
+    "pk": 4,
+    "fields": {
+      "short_name": "NG",
+      "name": "Nachwuchsgruppe",
+      "description": "Voraussetzung:  Beherrschung der Stilarten Rücken, Brust und Kraul in Grobform, Bereitschaft f³r 2 x Wassertraining in der Woche und die Teilnahme an einzelnen Wettkõmpfen. Ziel: Alle Stilarten richtig schwimmen lernen.",
+      "age_group": "8 - 12 Jahre",
+      "competition_participation": true,
+      "main_trainer": 1,
+      "trainer": [
+      ]
+    }
+  },
+  {
+    "model": "club.swimmgroup",
+    "pk": 5,
+    "fields": {
+      "short_name": "FG",
+      "name": "Fördergruppe",
+      "description": "Voraussetzung:  Bereits absolvierter Schwimmkurs mit Rückenschwimmen û goldenes Seepferdchen. Ziel: Mit spielerischen Mitteln und Spaß die wichtigen Stilarten lernen.",
+      "age_group": "6 - 8 Jahre",
+      "competition_participation": false,
+      "main_trainer": 1,
+      "trainer": [
+      ]
+    }
+  },
+  {
+    "model": "club.swimmgroup",
+    "pk": 6,
+    "fields": {
+      "short_name": "MS",
+      "name": "Masters",
+      "description": "Erhalt des Leitungsniveaus und Erreichung der individuellen Ziele. Teilnahme an Wettkõmpfen auf freiwilliger Basis",
+      "age_group": "ab 18 Jahre",
+      "competition_participation": true,
+      "main_trainer": 1,
+      "trainer": [
+      ]
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 1,
+    "fields": {
+      "swimm_group": 1,
+      "date": "2023-01-05",
+      "start_time": "18:30:00",
+      "end_time": "19:30:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 2,
+    "fields": {
+      "swimm_group": 2,
+      "date": "2023-01-02",
+      "start_time": "17:30:00",
+      "end_time": "19:00:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 3,
+    "fields": {
+      "swimm_group": 2,
+      "date": "2023-01-02",
+      "start_time": "19:30:00",
+      "end_time": "21:00:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 4,
+    "fields": {
+      "swimm_group": 2,
+      "date": "2023-01-03",
+      "start_time": "19:30:00",
+      "end_time": "21:00:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 5,
+    "fields": {
+      "swimm_group": 2,
+      "date": "2023-01-04",
+      "start_time": "19:00:00",
+      "end_time": "20:30:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 6,
+    "fields": {
+      "swimm_group": 2,
+      "date": "2023-01-06",
+      "start_time": "17:30:00",
+      "end_time": "19:00:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 7,
+    "fields": {
+      "swimm_group": 3,
+      "date": "2023-01-04",
+      "start_time": "19:00:00",
+      "end_time": "20:30:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 8,
+    "fields": {
+      "swimm_group": 3,
+      "date": "2023-01-06",
+      "start_time": "17:30:00",
+      "end_time": "19:00:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 9,
+    "fields": {
+      "swimm_group": 4,
+      "date": "2023-01-02",
+      "start_time": "17:30:00",
+      "end_time": "19:00:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 10,
+    "fields": {
+      "swimm_group": 4,
+      "date": "2023-01-03",
+      "start_time": "18:00:00",
+      "end_time": "19:30:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 11,
+    "fields": {
+      "swimm_group": 4,
+      "date": "2023-01-04",
+      "start_time": "17:30:00",
+      "end_time": "19:00:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 12,
+    "fields": {
+      "swimm_group": 5,
+      "date": "2023-01-03",
+      "start_time": "16:30:00",
+      "end_time": "17:15:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 13,
+    "fields": {
+      "swimm_group": 5,
+      "date": "2023-01-03",
+      "start_time": "17:15:00",
+      "end_time": "18:00:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 14,
+    "fields": {
+      "swimm_group": 5,
+      "date": "2023-01-04",
+      "start_time": "16:30:00",
+      "end_time": "17:30:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 15,
+    "fields": {
+      "swimm_group": 6,
+      "date": "2023-01-02",
+      "start_time": "21:00:00",
+      "end_time": "22:00:00"
+    }
+  },
+  {
+    "model": "club.trainingsday",
+    "pk": 16,
+    "fields": {
+      "swimm_group": 6,
+      "date": "2023-01-04",
+      "start_time": "20:30:00",
+      "end_time": "22:00:00"
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "1",
+    "fields": {
+      "first_name": "Max",
+      "last_name": "Mustermann",
+      "birth_date": "2013-06-29",
+      "email": "max.mustermann@test.de",
+      "group": 1
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "2",
+    "fields": {
+      "first_name": "Anna",
+      "last_name": "Schmidt",
+      "birth_date": "2012-03-17",
+      "email": "anna.schmidt@test.de",
+      "group": 1
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "3",
+    "fields": {
+      "first_name": "Elias",
+      "last_name": "Becker",
+      "birth_date": "2009-11-23",
+      "email": "elias.becker@test.de",
+      "group": 1
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "4",
+    "fields": {
+      "first_name": "Laura",
+      "last_name": "Hoffmann",
+      "birth_date": "2005-09-02",
+      "email": "laura.hoffmann@test.de",
+      "group": 1
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "5",
+    "fields": {
+      "first_name": "Finn",
+      "last_name": "Wagner",
+      "birth_date": "2006-04-11",
+      "email": "finn.wagner@test.de",
+      "group": 1
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "6",
+    "fields": {
+      "first_name": "Hannah",
+      "last_name": "Müller",
+      "birth_date": "2008-12-07",
+      "email": "hannah.mueller@test.de",
+      "group": 1
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "7",
+    "fields": {
+      "first_name": "Leon",
+      "last_name": "Schulz",
+      "birth_date": "2010-10-18",
+      "email": "leon.schulz@test.de",
+      "group": 1
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "8",
+    "fields": {
+      "first_name": "Mia",
+      "last_name": "Koch",
+      "birth_date": "2015-02-14",
+      "email": "mia.koch@test.de",
+      "group": 1
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "9",
+    "fields": {
+      "first_name": "Tim",
+      "last_name": "Schäfer",
+      "birth_date": "2013-07-09",
+      "email": "tim.schaefer@test.de",
+      "group": 1
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "10",
+    "fields": {
+      "first_name": "Lara",
+      "last_name": "Hermann",
+      "birth_date": "2005-04-28",
+      "email": "lara.hermann@test.de",
+      "group": 1
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "11",
+    "fields": {
+      "first_name": "Emma",
+      "last_name": "Becker",
+      "birth_date": "2004-12-29",
+      "attest": "2023-07-03",
+      "email": "emma.becker@test.de",
+      "group": 2
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "12",
+    "fields": {
+      "first_name": "David",
+      "last_name": "Schmidt",
+      "birth_date": "2006-06-05",
+      "attest": "2023-07-03",
+      "email": "david.schmidt@test.de",
+      "group": 2
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "13",
+    "fields": {
+      "first_name": "Lina",
+      "last_name": "Koch",
+      "birth_date": "2012-03-10",
+      "attest": "2023-07-03",
+      "email": "lina.koch@test.de",
+      "group": 2
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "14",
+    "fields": {
+      "first_name": "Ben",
+      "last_name": "Schulz",
+      "birth_date": "2005-11-23",
+      "attest": "2023-07-03",
+      "email": "ben.schulz@test.de",
+      "group": 2
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "15",
+    "fields": {
+      "first_name": "Sophie",
+      "last_name": "Müller",
+      "birth_date": "2010-09-17",
+      "attest": "2023-07-03",
+      "email": "sophie.mueller@test.de",
+      "group": 2
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "16",
+    "fields": {
+      "first_name": "Alex",
+      "last_name": "Wagner",
+      "birth_date": "2003-02-14",
+      "attest": "2023-07-03",
+      "email": "alex.wagner@test.de",
+      "group": 6
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "17",
+    "fields": {
+      "first_name": "Sarah",
+      "last_name": "Hoffmann",
+      "birth_date": "2002-05-20",
+      "attest": "2023-07-03",
+      "email": "sarah.hoffmann@test.de",
+      "group": 6
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "18",
+    "fields": {
+      "first_name": "Luca",
+      "last_name": "Müller",
+      "birth_date": "2017-04-09",
+      "attest": "2023-07-03",
+      "email": "luca.mueller@test.de",
+      "group": 5
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "19",
+    "fields": {
+      "first_name": "Lena",
+      "last_name": "Schulz",
+      "birth_date": "2016-08-20",
+      "attest": "2023-07-03",
+      "email": "lena.schulz@test.de",
+      "group": 5
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "20",
+    "fields": {
+      "first_name": "Paul",
+      "last_name": "Koch",
+      "birth_date": "2015-07-12",
+      "attest": "2023-07-03",
+      "email": "paul.koch@test.de",
+      "group": 5
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "21",
+    "fields": {
+      "first_name": "Emma",
+      "last_name": "Becker",
+      "birth_date": "2016-02-05",
+      "attest": "2023-07-03",
+      "email": "emma.becker@test.de",
+      "group": 5
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "22",
+    "fields": {
+      "first_name": "Max",
+      "last_name": "Wagner",
+      "birth_date": "2015-11-30",
+      "attest": "2023-07-03",
+      "email": "max.wagner@test.de",
+      "group": 5
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "23",
+    "fields": {
+      "first_name": "Hannah",
+      "last_name": "Hoffmann",
+      "birth_date": "2016-06-18",
+      "attest": "2023-07-03",
+      "email": "hannah.hoffmann@test.de",
+      "group": 5
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "24",
+    "fields": {
+      "first_name": "Finn",
+      "last_name": "Müller",
+      "birth_date": "2017-08-27",
+      "attest": "2023-07-03",
+      "email": "finn.mueller@test.de",
+      "group": 5
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "25",
+    "fields": {
+      "first_name": "Jonas",
+      "last_name": "Schulz",
+      "birth_date": "2011-09-03",
+      "attest": "2023-07-03",
+      "email": "jonas.schulz@test.de",
+      "group": 4
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "26",
+    "fields": {
+      "first_name": "Sophie",
+      "last_name": "Koch",
+      "birth_date": "2010-07-15",
+      "attest": "2023-07-03",
+      "email": "sophie.koch@test.de",
+      "group": 4
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "27",
+    "fields": {
+      "first_name": "Felix",
+      "last_name": "Müller",
+      "birth_date": "2012-02-28",
+      "attest": "2023-07-03",
+      "email": "felix.mueller@test.de",
+      "group": 4
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "28",
+    "fields": {
+      "first_name": "Emily",
+      "last_name": "Becker",
+      "birth_date": "2010-11-12",
+      "attest": "2023-07-03",
+      "email": "emily.becker@test.de",
+      "group": 4
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "29",
+    "fields": {
+      "first_name": "Julia",
+      "last_name": "Schmidt",
+      "birth_date": "2009-11-23",
+      "attest": "2023-07-03",
+      "email": "julia.schmidt@test.de",
+      "group": 3
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "30",
+    "fields": {
+      "first_name": "Simon",
+      "last_name": "Koch",
+      "birth_date": "2007-07-15",
+      "attest": "2023-07-03",
+      "email": "simon.koch@test.de",
+      "group": 3
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "31",
+    "fields": {
+      "first_name": "Sophia",
+      "last_name": "Müller",
+      "birth_date": "2008-02-28",
+      "attest": "2023-07-03",
+      "email": "sophia.mueller@test.de",
+      "group": 3
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "32",
+    "fields": {
+      "first_name": "Leon",
+      "last_name": "Becker",
+      "birth_date": "2007-11-12",
+      "attest": "2023-07-03",
+      "email": "leon.becker@test.de",
+      "group": 3
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "33",
+    "fields": {
+      "first_name": "Lara",
+      "last_name": "Wagner",
+      "birth_date": "2006-08-27",
+      "attest": "2023-07-03",
+      "email": "lara.wagner@test.de",
+      "group": 3
+    }
+  },
+  {
+    "model": "club.swimmer",
+    "pk": "34",
+    "fields": {
+      "first_name": "David",
+      "last_name": "Schulz",
+      "birth_date": "2004-05-05",
+      "attest": "2023-07-03",
+      "email": "david.schulz@test.de",
+      "group": 3
+    }
+  }
+]

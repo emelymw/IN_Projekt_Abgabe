@@ -1,0 +1,14 @@
+{% extends 'club/base.html' %}
+{% load static %}
+
+{% block header %}
+    <link rel="stylesheet" type="text/css" href="{% static 'club/calendar.css' %}">
+{% endblock %}
+
+{% block content %}
+    <div class="clearfix">
+        <a class="btn btn btn-outline-primary left" href="{% url 'training-calendar' %}?{{ prev_month }}"> Vorheriger Monat </a>
+        <a class="btn btn btn-outline-primary right" href="{% url 'training-calendar' %}?{{ next_month }}"> Nächster Monat </a>
+    </div>
+    {{ calendar }}
+{% endblock %}
